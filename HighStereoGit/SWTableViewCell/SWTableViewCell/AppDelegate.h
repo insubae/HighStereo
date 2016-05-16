@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  HighStereoRelease
+//  SWTableViewCell
 //
-//  Created by Insu Bae on 2015. 12. 7..
-//  Copyright © 2015년 Insu Bae. All rights reserved.
+//  Created by Chris Wendel on 9/10/13.
+//  Copyright (c) 2013 Chris Wendel. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -13,4 +13,3 @@
 @property (strong, nonatomic) UIWindow *window;
 
 @end
-

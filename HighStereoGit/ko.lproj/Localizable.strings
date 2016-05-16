@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "사용자 설정";
+"Save Current Settings" = "현재 설정 저장";
+"Delete" = "삭제";
+"Setting Name" = "설정 이름";
+"Cancel" = "취소";
+"Save" = "저장";
+"Move" = "이동";
+"Edit" = "편집";
+"YES" = "예";
+"NO" = "아니오";
+"Playlist" = "재생목록";
+"Complete" = "완료";
+"Confirm" = "확인";
+"New Setting Name" = "새로운 설정 이름";
+"The setting will be deleted" = "설정을 삭제합니다.";
+"Channel" = "채널";
+"Add Channel" = "채널 추가";
+"Edit Channel" = "채널 편집";
+"Enter URL" = "URL 입력";
+"Search" = "검색";
+"No Search Results." = "검색 결과가 없습니다.";
+"Name" = "이름";
+"Select Encoding" = "인코딩 선택";
+"Please enter URL" = "URL을 입력하세요.";
+"Please enter server name." = "서버 이름을 입력하세요.";
+"Add PlayList" = "재생목록";
+"File Browsing" = "파일 탐색";
+"The ftp server is started." = "ftp 서버가 시작되었습니다.";
+"The ftp server is shut down." = "ftp 서버가 종료되었습니다.";
+"ftp server is re-started." = "ftp 서버가 재 시작됩니다.";
+"New Folder" = "새로운 폴더";
+"New file name" = "새로운 파일 이름";
+
+"selectFilsMsg" = "파일을 먼저 선택하세요.";
+"Delete Files" = "파일 삭제";
+"FileDelMsg" = "선택된 파일들이 삭제됩니다.";
+
+"File upload" = "파일 업로드";
+"FTP transfer" = "FTP 전송";
+"iTunes Sharing" = "아이튠즈 쉐어링";
+"File Upload" = "파일 업로드";
+"Quick Move" = "빠른 이동";
+
+"New Name" = "새 이름";
+"Encoding" = "인코딩";
+"New PlayList" = "새로운 재생목록";
+"File" = "파일";
+"Select Files" = "파일 선택";
+"Added to the playlist" = "재생목록에 추가되었습니다.";
+"PlayList will be created." = "재생목록이 생성됩니다.";
+"Use currently playing file only." = "현재 재생중인 파일만 사용.";
+"Use currently playing list only." = "현재 재생중인 목록만 사용.";
+"Use all files in the directory." = "디렉토리의 모든 파일들 사용.";
+"Use all files in the m3u playlist." = "m3u 재생목록의 모든 파일 사용.";
+"Use all lists in the cue playlist." = "cue 재생목록의 모든 목록 사용.";
+"Save As" = "다른 이름으로 저장";
+"Please enter the playlist name." = "재생목록 이름을 입력하세요.";
+"The playlist has been saved." = "재생목록이 저장되었습니다.";
+"The playlist is empty." = "재생목록이 비어있습니다.";
+"Setup" = "설정";
+"Minute" = "분";
+"Set Time" = "시간 설정";
+"Select Time" = "시간 선택";
+"Select Play" = "재생 선택";
+"Mix Volume" = "믹스 볼륨";
+"Volume" = "볼륨";
+"Sound Mix" = "사운드 믹스";
+"Nature Sounds" = "자연의 소리";
+"Seagulls on the beach" = "바닷가의 갈매기";
+"The sound of the sea beach" = "해변의 소리";
+"Crickets at night" = "밤의 귀뚜라미";
+"Fireplace" = "벽난로";
+"Lake at night" = "밤의 호수";
+"Morning in the forest" = "숲속의 아침";
+"The sound of the waves" = "파도 소리";
+"Raindrops on the window" = "창문위로 떨어지는 빗방울";
+"Rainy day" = "비오는 날";
+"Flowing river" = "흐르는 강물";
+"Spring morning with woodpecker and other birds" = "봄 아침의 딱다구리와 여러 새들";
+"Summer field with birds singing" = "새들이 노래하는 여름 들판";
+"Summer night with bugs singing" = "벌레들이 노래하는 여름 밤";
+"Waves crashing on the sand" = "모래에 부서지는 파도";
+"Windy autumn forest" = "바람부는 가을 숲";
+"Windy day" = "바람부는 날";
+
+"Remove advertisement" = "광고 제거";
+"Prohibit auto screen lock" = "자동 화면 잠금 방지";
+"Purchase now." = "지금 구매.";
+"Already purchased ?" = "이미 구매 하셨나요 ?";
+"Purchases are disabled in this device." = "이 장치에서 구매가 비활성화 되어 있습니다.";
+"You need internet connection." = "인터넷 연결이 필요합니다.";
+"Can not find purchase record." = "구매목록을 찾을 수 없습니다.";
+"Fail to restore" = "복원 실패";
+"You already purchased this item." = "이 항목을 이미 구매 하셨습니다.";
+
+"ftpMsg1" = "1. 아이폰과 같은 무선 네트워크에 연결된 PC에서 윈도우 탐색기를 실행합니다.";
+"ftpMsg2" = "2. 열려진 윈도우 탐색기의 주소창에 아래의 FTP 주소를 입력합니다.";
+"ftpMsg3" = "3. 업로드를 원하는 파일 또는 디렉토리를 열려진 윈도우 탐색기로 복사합니다.";
+"ftpMsg4" = "참조 1 : 일반적인 FTP 프로그램의 사용도 가능합니다.";
+"ftpMsg5" = "참조 2 : FTP 방식은 파일 전송 속도가 느립니다. 사이즈가 큰 파일 전송 시에는 iTunes Sharing 방식의 사용을 권장합니다.";
+"itunesMsg1" = "1. 아이폰을 컴퓨터에 연결하고 iTunes를 실행합니다.";
+"itunesMsg2" = "2. 장비 항목에서 내 아이폰을 선택 후, APP 탭을 선택합니다.";
+"itunesMsg3" = "3. 오른쪽 창 아래 파일공유에 있는 응용프로그램 항목 중 HighStereo를 선택합니다.";
+"itunesMsg4" = "4. HighStereo의 도큐멘트 창에 업로드를 원하는 파일 또는 디렉토리를 복사하여 추가 합니다.";
+
+"leaveAReview" = "앱 사용에관한 의견을 남겨주세요.\n\n사용자분의 의견은\n다음 업데이트를 위해 소중히 사용됩니다.";
+"leaveAReview1" = "앱 사용에관한 의견을 남겨주세요.";
+"leaveAReview2" = "사용자분의 의견은\n다음 업데이트를 위해 소중히 사용됩니다.";
+
+"ListeningDrill" = "리스닝드릴";
+"ListeningDrillMsg" = "출근할 때 30분\n학교갈 때 30분\n\n영어가 들린다";
+"WordsCatch" = "워즈캐치";
+"WordsCatchMsg" = "모르는 단어는 ?\n터치만 !\n\n- 웹 읽기, 파일 읽기, 자동 단어장, 자동 푸시 복습, 푸시 주기 자유 설정";

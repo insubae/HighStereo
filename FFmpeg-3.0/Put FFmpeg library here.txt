@@ -1,0 +1,20 @@
+http://ffmpeg.org/download.html
+
+include
+	libavcodec
+	libavdevice
+	libavfilter
+	libavformat
+	libavutil
+	libswresample
+	libswscale
+
+
+lib
+	libavcodec.a
+	libavdevice.a
+	libavfilter.a
+	libavformat.a
+	libavutil.a
+	libswresample.a
+	libswscale.a

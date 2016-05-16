@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "USER SETTINGS";
+"Save Current Settings" = "Save Current Settings";
+"Delete" = "Delete";
+"Setting Name" = "Setting Name";
+"Cancel" = "Cancel";
+"Save" = "Save";
+"Move" = "Move";
+"Edit" = "Edit";
+"YES" = "YES";
+"NO" = "NO";
+"Playlist" = "Playlist";
+"Complete" = "Complete";
+"Confirm" = "Confirm";
+"New Setting Name" = "New Setting Name";
+"The setting will be deleted" = "The setting will be deleted";
+"Channel" = "Channel";
+"Add Channel" = "Add Channel";
+"Edit Channel" = "Edit Channel";
+"Enter URL" = "Enter URL";
+"Search" = "Search";
+"No Search Results." = "No Search Results.";
+"Name" = "Name";
+"Select Encoding" = "Select Encoding";
+"Please enter URL" = "Please enter URL";
+"Please enter server name." = "Please enter server name.";
+"Add PlayList" = "Playlist";
+"File Browsing" = "File Browsing";
+"The ftp server is started." = "The ftp server is started.";
+"The ftp server is shut down." = "The ftp server is shut down.";
+"ftp server is re-started." = "ftp server is re-started.";
+"New Folder" = "New Folder";
+"New file name" = "New file name";
+
+"selectFilsMsg" = "Select files first.";
+"Delete Files" = "Delete Files";
+"FileDelMsg" = "Selected files will be deleted.";
+
+"File upload" = "File upload";
+"FTP transfer" = "FTP transfer";
+"iTunes Sharing" = "iTunes Sharing";
+"File Upload" = "File Upload";
+"Quick Move" = "QUick Move";
+
+"New Name" = "New Name";
+"Encoding" = "Encoding";
+"New PlayList" = "New PlayList";
+"File" = "File";
+"Select Files" = "Select Files";
+"Added to the playlist" = "Added to the playlist";
+"PlayList will be created." = "PlayList will be created.";
+"Use currently playing file only." = "Use currently playing file only.";
+"Use currently playing list only." = "Use currently playing list only.";
+"Use all files in the directory." = "Use all files in the directory.";
+"Use all files in the m3u playlist." = "Use all files in the m3u playlist.";
+"Use all lists in the cue playlist." = "Use all lists in the cue playlist.";
+"Save As" = "Save As";
+"Please enter the playlist name." = "Please enter the playlist name.";
+"The playlist has been saved." = "The playlist has been saved.";
+"The playlist is empty." = "The playlist is empty.";
+"Setup" = "Setup";
+"Minute" = "Minute";
+"Set Time" = "Set Time";
+"Select Time" = "Select Time";
+"Select Play" = "Select Play";
+"Mix Volume" = "Mix Volume";
+"Volume" = "Volume";
+"Sound Mix" = "Sound Mix";
+"Nature Sounds" = "Nature Sounds";
+"Seagulls on the beach" = "Seagulls on the beach";
+"The sound of the sea beach" = "The sound of the sea beach";
+"Crickets at night" = "Crickets at night";
+"Fireplace" = "Fireplace";
+"Lake at night" = "Lake at night";
+"Morning in the forest" = "Morning in the forest";
+"The sound of the waves" = "The sound of the waves";
+"Raindrops on the window" = "Raindrops on the window";
+"Rainy day" = "Rainy day";
+"Flowing river" = "Flowing river";
+"Spring morning with woodpecker and other birds" = "Spring morning with woodpecker and other birds";
+"Summer field with birds singing" = "Summer field with birds singing";
+"Summer night with bugs singing" = "Summer night with bugs singing";
+"Waves crashing on the sand" = "Waves crashing on the sand";
+"Windy autumn forest" = "Windy autumn forest";
+"Windy day" = "Windy day";
+
+"Remove advertisement" = "Remove advertisement";
+"Prohibit auto screen lock" = "Prohibit auto screen lock";
+"Purchase now." = "Purchase now.";
+"Already purchased ?" = "Already purchased ?";
+"Purchases are disabled in this device." = "Purchases are disabled in this device.";
+"You need internet connection." = "You need internet connection.";
+"Can not find purchase record." = "Can not find purchase record.";
+"Fail to restore" = "Fail to restore";
+"You already purchased this item." = "You already purchased this item.";
+
+"ftpMsg1" = "1. Open the Windows explorer from the PC connected to the same wireless network your iPhone is connected.";
+"ftpMsg2" = "2. Enter the FTP address below in the Windows explorer address bar.";
+"ftpMsg3" = "3. Copy the files or directories you want to upload to Windows Explorer.";
+"ftpMsg4" = "Note 1 : The use of common FTP programs are also available.";
+"ftpMsg5" = "Note 2 : Transfering speed of FTP is slow. When you transfer big size of file, use of iTunes Sharing is recommended.";
+"itunesMsg1" = "1. Connect your iPhone to your computer and open iTunes.";
+"itunesMsg2" = "2. After selecting My iPhone in the Devices category, select the APP tab.";
+"itunesMsg3" = "3. Select HighStereo from the application entry in the right window, under File Sharing";
+"itunesMsg4" = "4. Add files or directories you want to upload to the document window of HighStereo.";
+
+"leaveAReview" = "Please comment about the app.\n\nA big help and inspiration,\nit would be for the next update.";
+"leaveAReview1" = "Please comment about the app.";
+"leaveAReview2" = "A big help and inspiration,\nit would be for the next update.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 min on the way to work\n30 min on the way to school\n\nSoon you will begin to hear English!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Unknown word?\nJust touch it!\n\n- Web reading,- File reading,- Auto vocabulary,- Auto push study,- Set push period freely";
