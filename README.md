@@ -30,5 +30,3 @@ HighStereo Xcode Project
 
 4. Now you are ready to run xcode.
 
-
-
