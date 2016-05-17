@@ -1,0 +1,14 @@
+There are no typical regulations for usage, if you use DSEG for commercial or non-commercial works. However, I don't waive copyrights of DSEG series. The following examples indicate what you can and what you cannot. As you use these fonts, I'd appreciate it if you could contact me or link to this page. Your comments will be very encouraging for me :) 
+You can... 
+•distribute or sell your works(*1) which uses DSEG.
+•distribute or sell your works(*1) which uses DSEG which you modified(*2).
+•distribute DSEG archives itself (DSEG*.zip) without a fee. 
+
+You CAN'T... 
+•claim authorship of DSEG.
+•distribute and sell DSEG archives which you modified without permission.
+•sell DSEG data itself without permission.
+*1 Examples of "works": Web fonts, documents, images, internet services, embedding into softwares and hardwares.
+*2 Examples of "modify": File conversion, arranging glyphs, file editing. 
+*3 If you have any questions about license, please contact me.
+*4 The license will be changed sometimes, however, old DSEG family follow previous licenses. 

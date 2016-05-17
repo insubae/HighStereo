@@ -138,6 +138,16 @@
 		FA0767851CE94DD000991A7B /* libiconv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = FA0767841CE94DD000991A7B /* libiconv.tbd */; };
 		FA0767871CE94DDE00991A7B /* libbz2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = FA0767861CE94DDE00991A7B /* libbz2.tbd */; };
 		FA0767891CE94DF800991A7B /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = FA0767881CE94DF800991A7B /* libz.tbd */; };
+		FA54383E1CEACC9400AE6788 /* Attribution License.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA5438341CEACC9400AE6788 /* Attribution License.txt */; };
+		FA54383F1CEACC9400AE6788 /* Attribution-NoDerivs 3.0 Unported.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA5438351CEACC9400AE6788 /* Attribution-NoDerivs 3.0 Unported.txt */; };
+		FA5438401CEACC9400AE6788 /* Creative Commons 0 License.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA5438361CEACC9400AE6788 /* Creative Commons 0 License.txt */; };
+		FA5438411CEACC9400AE6788 /* F3BarGauge-license.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA5438371CEACC9400AE6788 /* F3BarGauge-license.txt */; };
+		FA5438421CEACC9400AE6788 /* lgpl-2.1.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA5438381CEACC9400AE6788 /* lgpl-2.1.txt */; };
+		FA5438431CEACC9400AE6788 /* License of DSEG series.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA5438391CEACC9400AE6788 /* License of DSEG series.txt */; };
+		FA5438441CEACC9400AE6788 /* mit.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA54383A1CEACC9400AE6788 /* mit.txt */; };
+		FA5438451CEACC9400AE6788 /* pureftp-bsd.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA54383B1CEACC9400AE6788 /* pureftp-bsd.txt */; };
+		FA5438461CEACC9400AE6788 /* taae-license.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA54383C1CEACC9400AE6788 /* taae-license.txt */; };
+		FA5438471CEACC9400AE6788 /* The BSD 3-Clause License.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA54383D1CEACC9400AE6788 /* The BSD 3-Clause License.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -416,6 +426,16 @@
 		FA0767841CE94DD000991A7B /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
 		FA0767861CE94DDE00991A7B /* libbz2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libbz2.tbd; path = usr/lib/libbz2.tbd; sourceTree = SDKROOT; };
 		FA0767881CE94DF800991A7B /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		FA5438341CEACC9400AE6788 /* Attribution License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Attribution License.txt"; sourceTree = "<group>"; };
+		FA5438351CEACC9400AE6788 /* Attribution-NoDerivs 3.0 Unported.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Attribution-NoDerivs 3.0 Unported.txt"; sourceTree = "<group>"; };
+		FA5438361CEACC9400AE6788 /* Creative Commons 0 License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Creative Commons 0 License.txt"; sourceTree = "<group>"; };
+		FA5438371CEACC9400AE6788 /* F3BarGauge-license.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "F3BarGauge-license.txt"; sourceTree = "<group>"; };
+		FA5438381CEACC9400AE6788 /* lgpl-2.1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "lgpl-2.1.txt"; sourceTree = "<group>"; };
+		FA5438391CEACC9400AE6788 /* License of DSEG series.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "License of DSEG series.txt"; sourceTree = "<group>"; };
+		FA54383A1CEACC9400AE6788 /* mit.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mit.txt; sourceTree = "<group>"; };
+		FA54383B1CEACC9400AE6788 /* pureftp-bsd.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "pureftp-bsd.txt"; sourceTree = "<group>"; };
+		FA54383C1CEACC9400AE6788 /* taae-license.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "taae-license.txt"; sourceTree = "<group>"; };
+		FA54383D1CEACC9400AE6788 /* The BSD 3-Clause License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The BSD 3-Clause License.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -465,6 +485,7 @@
 		FA0765D01CE9499E00991A7B = {
 			isa = PBXGroup;
 			children = (
+				FA5438331CEACC9400AE6788 /* License */,
 				FA0767881CE94DF800991A7B /* libz.tbd */,
 				FA0767861CE94DDE00991A7B /* libbz2.tbd */,
 				FA0767841CE94DD000991A7B /* libiconv.tbd */,
@@ -945,6 +966,23 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		FA5438331CEACC9400AE6788 /* License */ = {
+			isa = PBXGroup;
+			children = (
+				FA5438341CEACC9400AE6788 /* Attribution License.txt */,
+				FA5438351CEACC9400AE6788 /* Attribution-NoDerivs 3.0 Unported.txt */,
+				FA5438361CEACC9400AE6788 /* Creative Commons 0 License.txt */,
+				FA5438371CEACC9400AE6788 /* F3BarGauge-license.txt */,
+				FA5438381CEACC9400AE6788 /* lgpl-2.1.txt */,
+				FA5438391CEACC9400AE6788 /* License of DSEG series.txt */,
+				FA54383A1CEACC9400AE6788 /* mit.txt */,
+				FA54383B1CEACC9400AE6788 /* pureftp-bsd.txt */,
+				FA54383C1CEACC9400AE6788 /* taae-license.txt */,
+				FA54383D1CEACC9400AE6788 /* The BSD 3-Clause License.txt */,
+			);
+			path = License;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1068,13 +1106,16 @@
 				FA0766341CE94AF200991A7B /* example2.gif in Resources */,
 				FA07674F1CE94BF700991A7B /* newlist.png in Resources */,
 				FA0767351CE94BF700991A7B /* gold-playpause.png in Resources */,
+				FA5438431CEACC9400AE6788 /* License of DSEG series.txt in Resources */,
 				FA0767451CE94BF700991A7B /* Rain - on a window.mp3 in Resources */,
 				FA07673A1CE94BF700991A7B /* gold-slideback.png in Resources */,
 				FA0767301CE94BF700991A7B /* gold-list.png in Resources */,
 				FA07674A1CE94BF700991A7B /* Summer night - with bugs.mp3 in Resources */,
 				FA0766D81CE94BCA00991A7B /* Put FFmpeg library here.txt in Resources */,
 				FA07664D1CE94AF200991A7B /* um.png in Resources */,
+				FA5438401CEACC9400AE6788 /* Creative Commons 0 License.txt in Resources */,
 				FA0767391CE94BF700991A7B /* gold-pushsw-on.png in Resources */,
+				FA5438451CEACC9400AE6788 /* pureftp-bsd.txt in Resources */,
 				FA07673E1CE94BF700991A7B /* Beach - with seagulls.mp3 in Resources */,
 				FA07663D1CE94AF200991A7B /* cross@2x.png in Resources */,
 				FA0767421CE94BF700991A7B /* Lake at night.mp3 in Resources */,
@@ -1083,12 +1124,14 @@
 				FA07674C1CE94BF700991A7B /* Windy autumn forest.mp3 in Resources */,
 				FA0766311CE94AF200991A7B /* .slather.yml in Resources */,
 				FA07672A1CE94BF700991A7B /* gold-increase.png in Resources */,
+				FA54383E1CEACC9400AE6788 /* Attribution License.txt in Resources */,
 				FA0767461CE94BF700991A7B /* Rainy day - with various birds.mp3 in Resources */,
 				FA0767361CE94BF700991A7B /* gold-plus.png in Resources */,
 				FA0766451CE94AF200991A7B /* MI.png in Resources */,
 				FA07664C1CE94AF200991A7B /* SWTableViewCell-Info.plist in Resources */,
 				FA07674B1CE94BF700991A7B /* Waves breaking on a sandy beach.mp3 in Resources */,
 				FA0767441CE94BF700991A7B /* Ocean wave.mp3 in Resources */,
+				FA5438461CEACC9400AE6788 /* taae-license.txt in Resources */,
 				FA0767231CE94BF700991A7B /* close.png in Resources */,
 				FA0766361CE94AF200991A7B /* example4.gif in Resources */,
 				FA07672C1CE94BF700991A7B /* gold-knob-back.png in Resources */,
@@ -1102,10 +1145,13 @@
 				FA0765E91CE9499E00991A7B /* Assets.xcassets in Resources */,
 				FA0767221CE94BF700991A7B /* clearx.png in Resources */,
 				FA0767241CE94BF700991A7B /* delete.png in Resources */,
+				FA54383F1CEACC9400AE6788 /* Attribution-NoDerivs 3.0 Unported.txt in Resources */,
 				FA0767501CE94BF700991A7B /* orange-radio-tower.png in Resources */,
+				FA5438441CEACC9400AE6788 /* mit.txt in Resources */,
 				FA0766381CE94AF200991A7B /* Podfile in Resources */,
 				FA0766511CE94AF200991A7B /* Info.plist in Resources */,
 				FA0766331CE94AF200991A7B /* example1.gif in Resources */,
+				FA5438411CEACC9400AE6788 /* F3BarGauge-license.txt in Resources */,
 				FA0766DC1CE94BD100991A7B /* DSEG14Modern-Bold.ttf in Resources */,
 				FA07672E1CE94BF700991A7B /* gold-ledoff.png in Resources */,
 				FA0767281CE94BF700991A7B /* gold-decrease.png in Resources */,
@@ -1115,6 +1161,7 @@
 				FA0767341CE94BF700991A7B /* gold-open.png in Resources */,
 				FA07672B1CE94BF700991A7B /* gold-inselknob-back.png in Resources */,
 				FA0766401CE94AF200991A7B /* Default@2x.png in Resources */,
+				FA5438421CEACC9400AE6788 /* lgpl-2.1.txt in Resources */,
 				FA0765E71CE9499E00991A7B /* Main.storyboard in Resources */,
 				FA0766431CE94AF200991A7B /* list@2x.png in Resources */,
 				FA0767271CE94BF700991A7B /* gold-back.png in Resources */,
@@ -1124,6 +1171,7 @@
 				FA07673C1CE94BF700991A7B /* gold-sw-on.png in Resources */,
 				FA0766E51CE94BE500991A7B /* icecastsqlA.sqlite in Resources */,
 				FA0767381CE94BF700991A7B /* gold-pushsw-off.png in Resources */,
+				FA5438471CEACC9400AE6788 /* The BSD 3-Clause License.txt in Resources */,
 				FA07674E1CE94BF700991A7B /* move.png in Resources */,
 				FA0767331CE94BF700991A7B /* gold-next.png in Resources */,
 				FA07673D1CE94BF700991A7B /* Information.png in Resources */,
@@ -1361,6 +1409,7 @@
 				FA0765F21CE9499E00991A7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
