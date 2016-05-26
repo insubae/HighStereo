@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "ΡΥΘΜΙΣΕΙΣ ΧΡΗΣΤΗ";
+"Save Current Settings" = "Αποθήκευση τρεχουσών ρυθμίσεων";
+"Delete" = "Διαγραφή";
+"Setting Name" = "Όνομα ρύθμισης";
+"Cancel" = "Ακύρωση";
+"Save" = "Αποθήκευση";
+"Move" = "Μετακίνηση";
+"Edit" = "Επεξεργασία";
+"YES" = "ΝΑΙ";
+"NO" = "ΟΧΙ";
+"Playlist" = "λίστα αναπαραγωγής";
+"Complete" = "Ολοκληρώθηκε";
+"Confirm" = "Επιβεβαίωση";
+"New Setting Name" = "Νέο Όνομα Ρύθμισης";
+"The setting will be deleted" = "Η ρύθμιση θα διαγραφεί";
+"Channel" = "Κανάλι";
+"Add Channel" = "Προσθήκη καναλιού";
+"Edit Channel" = "Επεξεργασία Καναλιού";
+"Enter URL" = "Εισάγετε τη διεύθυνση URL";
+"Search" = "Αναζήτηση";
+"No Search Results." = "Δεν υπάρχουν αποτελέσματα αναζήτησης.";
+"Name" = "Όνομα";
+"Select Encoding" = "Επιλέξτε Κωδικοποίηση";
+"Please enter URL" = "Παρακαλούμε εισάγετε τη διεύθυνση URL";
+"Please enter server name." = "Παρακαλούμε εισάγετε το όνομα του διακομιστή.";
+"Add PlayList" = "Λίστα αναπαραγωγής";
+"File Browsing" = "Περιήγηση Αρχείου";
+"The ftp server is started." = "Ο διακομιστής FTP έχει ξεκινήσει.";
+"The ftp server is shut down." = "Ο διακομιστής FTP έχει κλείσει.";
+"ftp server is re-started." = "Ο διακομιστής FTP είναι αρχίσει ξανά.";
+"New Folder" = "Νέος φάκελος";
+"New file name" = "Νέο όνομα αρχείου";
+
+"selectFilsMsg" = "Πρώτα επιλέξτε αρχεία.";
+"Delete Files" = "Διαγραφή αρχείων";
+"FileDelMsg" = "Τα επιλεγμένα αρχεία θα διαγραφούν.";
+
+"File upload" = "Ανέβασμα αρχείου";
+"FTP transfer" = "Μεταφορά FTP";
+"iTunes Sharing" = "iTunes Sharing";
+"Quick Move" = "Γρήγορη μετακίνηση";
+
+"New Name" = "Νέο Όνομα";
+"Encoding" = "Κωδικοποίηση";
+"New PlayList" = "Νέα λίστα αναπαραγωγής";
+"File" = "Αρχείο";
+"Select Files" = "Επιλογή αρχείων";
+"Added to the playlist" = "Προστέθηκε στη λίστα αναπαραγωγής";
+"PlayList will be created." = "Η λίστα αναπαραγωγής θα δημιουργηθεί.";
+"Use currently playing file only." = "Χρησιμοποιήστε μόνο το αρχείο που παίζει τώρα.";
+"Use currently playing list only." = "Χρησιμοποιήστε μόνο τη λίστα που παίζει τώρα.";
+"Use all files in the directory." = "Χρησιμοποιήστε όλα τα αρχεία στον κατάλογο.";
+"Use all files in the m3u playlist." = "Χρησιμοποιήστε όλα τα αρχεία στη λίστα αναπαραγωγής m3u.";
+"Use all lists in the cue playlist." = "Χρησιμοποιήστε όλες τις λίστες στην cue λίστα αναπαραγωγής.";
+"Save As" = "Αποθήκευση ως";
+"Please enter the playlist name." = "Παρακαλούμε εισάγετε το όνομα της λίστας.";
+"The playlist has been saved." = "Η λίστα αναπαραγωγής έχει αποθηκευτεί.";
+"The playlist is empty." = "Η λίστα είναι κενή.";
+"Setup" = "Ρύθμιση";
+"Minute" = "Λεπτό";
+"Set Time" = "Ρύθμιση ώρας";
+"Select Time" = "Επιλέξτε Ώρα";
+"Select Play" = "Επιλέξτε Αναπαραγωγή";
+"Mix Volume" = "Μίξη Έντασης";
+"Volume" = "Ένταση";
+"Sound Mix" = "Μίξη Ήχου";
+"Nature Sounds" = "Ήχοι της φύσης";
+"Seagulls on the beach" = "Γλάροι στην παραλία";
+"The sound of the sea beach" = "Ο ήχος της θάλασσας στην παραλία";
+"Crickets at night" = "Γρύλοι τη νύχτα";
+"Fireplace" = "Τζάκι";
+"Lake at night" = "Λίμνη τη νύχτα";
+"Morning in the forest" = "Πρωί στο δάσος";
+"The sound of the waves" = "Ο ήχος των κυμάτων";
+"Raindrops on the window" = "Σταγόνες βροχής στο παράθυρο";
+"Rainy day" = "Βροχερή μέρα";
+"Flowing river" = "Ροή του ποταμού";
+"Spring morning with woodpecker and other birds" = "Ανοιξιάτικο πρωί με δρυοκολάπτες και άλλα πτηνά";
+"Summer field with birds singing" = "Καλοκαιρινό χωράφι με το κελάηδισμα των πουλιών";
+"Summer night with bugs singing" = "Καλοκαιρινή νύχτα το τραγούδι των εντόμων";
+"Waves crashing on the sand" = "Κύματα που σκάνε στην άμμο";
+"Windy autumn forest" = "Θυελλώδες δάσος το φθινόπωρο";
+"Windy day" = "θυελλώδης ημέρα";
+
+"Remove advertisement" = "Κατάργηση διαφήμισης";
+"Prohibit auto screen lock" = "Απαγόρευση της αυτόματης οθόνης κλειδώματος";
+"Purchase now." = "Αγορά τώρα.";
+"Already purchased ?" = "Ήδη αγορασμένο?";
+"Purchases are disabled in this device." = "Οι αγορές είναι απενεργοποιημένες σε αυτήν τη συσκευή.";
+"You need internet connection." = "Απαιτείται σύνδεση στο internet.";
+"Can not find purchase record." = "Δεν μπορείτε να βρείτε τον δίσκο για αγορά.";
+"Fail to restore" = "Αποτυχία αποκατάστασης";
+"You already purchased this item." = "Έχετε ήδη αγοράσει αυτό το στοιχείο.";
+
+"ftpMsg1" = "1. Ανοίξτε την Εξερεύνηση των Windows από τον υπολογιστή που είναι συνδεδεμένος στο ίδιο ασύρματο δίκτυο που είναι συνδεδεμένο και το iPhone σας.";
+"ftpMsg2" = "2. Εισάγετε τη διεύθυνση FTP κάτω στη γραμμή διευθύνσεων της Εξερεύνησης των Windows.";
+"ftpMsg3" = "3. Αντιγράψτε τα αρχεία ή τους καταλόγους που θέλετε να ανεβάσετε στο Windows Explorer.";
+"ftpMsg4" = "Σημείωση 1: Η χρήση των κοινών προγραμμάτων FTP είναι επίσης διαθέσιμη.";
+"ftpMsg5" = "Σημείωση 2: ταχύτητα μεταφέροντας τα FTP είναι αργή. Όταν μεταφέρετε μεγάλο μέγεθος του αρχείου, η χρήση του iTunes Sharing συνιστάται.";
+"itunesMsg1" = "1. Συνδέστε το iPhone σας με τον υπολογιστή σας και ανοίξτε το iTunes.";
+"itunesMsg2" = "2. Μετά την επιλογή του iPhone μου στην κατηγορία Συσκευές, επιλέξτε την καρτέλα APP.";
+"itunesMsg3" = "3. Επιλέξτε το HighStereo από την έναρξη εφαρμογών στο δεξιό παράθυρο, στο πλαίσιο File Sharing";
+"itunesMsg4" = "4. Προσθέστε τα αρχεία ή τους καταλόγους που θέλετε να ανεβάσετε στο παράθυρο του εγγράφου του HighStereo.";
+
+"leaveAReview" = "Παρακαλούμε σχολιάστε για την εφαρμογή.\n\nΟι κριτικές είναι μια μεγάλη βοήθεια για τη βελτίωση της εφαρμογής.\nΕυχαριστούμε.";
+"leaveAReview1" = "Παρακαλούμε σχολιάστε για την εφαρμογή.";
+"leaveAReview2" = "Οι κριτικές είναι μια μεγάλη βοήθεια για τη βελτίωση της εφαρμογής.\nΕυχαριστούμε.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 λεπτά στο δρόμο για τη δουλειά\n30 λεπτά στο δρόμο για το σχολείο\n\nΣύντομα θα αρχίσετε να ακούτε αγγλικά!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Άγνωστη λέξη ?\nΑπλά αγγίξτε την!\n\nBuild word power\nwhile you're reading!";

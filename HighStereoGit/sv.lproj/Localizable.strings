@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "ANVÄNDARINSTÄLLNINGAR";
+"Save Current Settings" = "Spara inställningar";
+"Delete" = "Radera";
+"Setting Name" = "Inställningens namn";
+"Cancel" = "Avbryt";
+"Save" = "Spara";
+"Move" = "Flytta";
+"Edit" = "Redigera";
+"YES" = "JA";
+"NO" = "NEJ";
+"Playlist" = "Spellista";
+"Complete" = "Klar";
+"Confirm" = "Bekräfta";
+"New Setting Name" = "Nytt namn på inställning";
+"The setting will be deleted" = "Inställningen kommer att raderas";
+"Channel" = "Kanal";
+"Add Channel" = "Lägg till kanal";
+"Edit Channel" = "Redigera kanal";
+"Enter URL" = "Ange URL";
+"Search" = "Sök";
+"No Search Results." = "Inga sökresultat.";
+"Name" = "Namn";
+"Select Encoding" = "Välj kodning";
+"Please enter URL" = "Vänligen ange URL";
+"Please enter server name." = "Vänligen ange serverns namn.";
+"Add PlayList" = "Spellista";
+"File Browsing" = "Sök filer";
+"The ftp server is started." = "ftp-servern har startats.";
+"The ftp server is shut down." = "ftp-servern har avslutats.";
+"ftp server is re-started." = "ftp-servern har startats om.";
+"New Folder" = "Ny mapp";
+"New file name" = "Nytt filnamn";
+
+"selectFilsMsg" = "Välj filer först.";
+"Delete Files" = "Radera filer";
+"FileDelMsg" = "Valda filer kommer att raderas";
+
+"File upload" = "Ladda upp fil";
+"FTP transfer" = "FTP-överföring";
+"iTunes Sharing" = "Dela på iTunes";
+"Quick Move" = "QuickMove";
+
+"New Name" = "Nytt namn";
+"Encoding" = "Kodning";
+"New PlayList" = "Ny spellista";
+"File" = "Fil";
+"Select Files" = "Välj filer";
+"Added to the playlist" = "Tillagd på spellistan";
+"PlayList will be created." = "Spellistan kommer att skapas.";
+"Use currently playing file only." = "Välj endast aktuell fil.";
+"Use currently playing list only." = "Välj endast aktuell spellista.";
+"Use all files in the directory." = "Välj alla filer i katalogen.";
+"Use all files in the m3u playlist." = "Välj alla filer på m3u-spellistan.";
+"Use all lists in the cue playlist." = "Välj alla filer på cue-spellistan.";
+"Save As" = "Spara som";
+"Please enter the playlist name." = "Vänligen ange spellistans namn.";
+"The playlist has been saved." = "Spellistan har sparats.";
+"The playlist is empty." = "Spellistan är tom.";
+"Setup" = "Upplägg";
+"Minute" = "Minut";
+"Set Time" = "Ange tid";
+"Select Time" = "Välj tid";
+"Select Play" = "Välj spela";
+"Mix Volume" = "Blanda volym";
+"Volume" = "Volym";
+"Sound Mix" = "Ljudmix";
+"Nature Sounds" = "Naturljud";
+"Seagulls on the beach" = "Fiskmåsar på stranden";
+"The sound of the sea beach" = "Ljud från havet";
+"Crickets at night" = "Syrsor på natten";
+"Fireplace" = "Eldstad";
+"Lake at night" = "Sjö på natten";
+"Morning in the forest" = "Morgon i skogen";
+"The sound of the waves" = "Ljudet av vågorna";
+"Raindrops on the window" = "Regn mot fönstret";
+"Rainy day" = "Regnig dag";
+"Flowing river" = "Porlande bäck";
+"Spring morning with woodpecker and other birds" = "Vårmorgon med hackspett och andra fåglar";
+"Summer field with birds singing" = "Sommaräng med sjungande fåglar";
+"Summer night with bugs singing" = "Sommarnatt med sjungande insekter";
+"Waves crashing on the sand" = "Vågor som slår mot sanden";
+"Windy autumn forest" = "Blåsig höstskog";
+"Windy day" = "Blåsig dag";
+
+"Remove advertisement" = "Ta bort reklam";
+"Prohibit auto screen lock" = "Förhindra automatisk skärmlåsning";
+"Purchase now." = "Köp nu";
+"Already purchased ?" = "Redan köpt?";
+"Purchases are disabled in this device." = "Köp är avstängda i enheten.";
+"You need internet connection." = "Du behöver en internetanslutning.";
+"Can not find purchase record." = "Kan inte hitta tidigare köp.";
+"Fail to restore" = "Kunde inte återställa";
+"You already purchased this item." = "Du har redan köpt detta föremål.";
+
+"ftpMsg1" = "1. Öppna webbläsaren från den PC som är ansluten till samma trådlösa nätverk som din iPhone.";
+"ftpMsg2" = "2. Ange FTP-adressen i webbläsarens adressfält.";
+"ftpMsg3" = "3. Kopiera filerna eller de register du vill ladda upp till webbläsaren.";
+"ftpMsg4" = "Observera 1: Du kan även använda vanliga FTP-program";
+"ftpMsg5" = "Observera 2: Överföringshastigheten för FTP är långsam. När du för över en stor fil rekommenderas överföring via iTunes Sharing.";
+"itunesMsg1" = "1. Anslut din iPhone till datorn och öppna iTunes.";
+"itunesMsg2" = "2. Välj My iPhone i kategorin Enhet, och välj fliken APP.";
+"itunesMsg3" = "3. Välj HighStero från listan till höger, under Fildelning";
+"itunesMsg4" = "4. Lägg till filer eller de register du vill ladda upp i HighStereos dokumentfönster.";
+
+"leaveAReview" = "Kommentera gärna appen.\n\nRecensioner hjälper till att förbättra appen.\nTack.";
+"leaveAReview1" = "Kommentera gärna appen.";
+"leaveAReview2" = "Recensioner hjälper till att förbättra appen.\nTack.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 min på väg till jobbet\n30 min på väg till skolan\n\nSnart kommer du börja höra engelska!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Kan du inte ordet?\nRör den!\n\nBuild word power\nwhile you're reading!";

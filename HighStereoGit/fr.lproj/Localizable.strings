@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "PARAMÈTRES D'UTILISATEUR";
+"Save Current Settings" = "Enregistrer les paramètres actuels";
+"Delete" = "Supprimer";
+"Setting Name" = "Nom du paramètre";
+"Cancel" = "Annuler";
+"Save" = "Enregistrer";
+"Move" = "Déplacer";
+"Edit" = "Modifier";
+"YES" = "OUI";
+"NO" = "NON";
+"Playlist" = "La liste de lecture";
+"Complete" = "Complet";
+"Confirm" = "Confirmer";
+"New Setting Name" = "Nouveau nom de paramètre";
+"The setting will be deleted" = "Le réglage sera supprimé";
+"Channel" = "Canal de la radio";
+"Add Channel" = "Ajouter un canal";
+"Edit Channel" = "Modifier le Channel";
+"Enter URL" = "Entrez l’URL";
+"Search" = "Recherche";
+"No Search Results." = "Aucun résultat trouvé.";
+"Name" = "Nom";
+"Select Encoding" = "Sélectionnez le codage";
+"Please enter URL" = "S’il vous plaît entrez l'URL";
+"Please enter server name." = "S’il vous plaît, entrez le nom du serveur.";
+"Add PlayList" = "Liste de lecteur";
+"File Browsing" = "Fichier de navigation";
+"The ftp server is started." = "Le serveur ftp est démarré.";
+"The ftp server is shut down." = "Le serveur ftp est arrêté.";
+"ftp server is re-started." = "Le serveur FTP est redémarré.";
+"New Folder" = "Nouveau dossier";
+"New file name" = "Nouveau nom de fichier";
+
+"selectFilsMsg" = "Sélectionnez tout d’abord les fichiers.";
+"Delete Files" = "Supprimer les fichiers";
+"FileDelMsg" = "Les fichiers sélectionnés seront supprimés.";
+
+"File upload" = "Le téléchargement de fichier";
+"FTP transfer" = "Le transfert FTP";
+"iTunes Sharing" = "Le partage iTunes";
+"Quick Move" = "Déplacé QUICK";
+
+"New Name" = "Le nouveau nom de";
+"Encoding" = "l’encodage";
+"New PlayList" = "La nouvelle liste de lecture";
+"File" = "Le Fichier ";
+"Select Files" = "Sélectionnez les fichiers";
+"Added to the playlist" = "Ajouté à la liste de lecture";
+"PlayList will be created." = "La liste de lecteur sera créée.";
+"Use currently playing file only." = "Utilisation en cours de lecture de fichier uniquement.";
+"Use currently playing list only." = "Utilisation la liste en cours de lecture seulement.";
+"Use all files in the directory." = "Utiliser tous les fichiers dans le répertoire.";
+"Use all files in the m3u playlist." = "Utiliser tous les fichiers dans la liste de lecture m3u.";
+"Use all lists in the cue playlist." = "Utilisez toutes les listes dans la liste de lecteur cue.";
+"Save As" = "Enregistrer sous";
+"Please enter the playlist name." = "Veuillez entrer le nom de la liste de lecteur.";
+"The playlist has been saved." = "La liste de lecture a été enregistrée.";
+"The playlist is empty." = "La liste de lecteur est vide.";
+"Setup" = "Réglages";
+"Minute" = "Minute";
+"Set Time" = "L’heure réglée";
+"Select Time" = "Sélectionnez l’heure";
+"Select Play" = "Sélectionnez lire";
+"Mix Volume" = "Le Volume Mix";
+"Volume" = "Le Volume";
+"Sound Mix" = "Le son Mix";
+"Nature Sounds" = "Les Sons de la nature";
+"Seagulls on the beach" = "Les Mouettes sur la plage";
+"The sound of the sea beach" = "Le son de la mer de la plage";
+"Crickets at night" = "Grillons pendant la nuit";
+"Fireplace" = "La Cheminée";
+"Lake at night" = "Le Lac à la nuit";
+"Morning in the forest" = "Le matin dans la forêt";
+"The sound of the waves" = "Le bruit des vagues";
+"Raindrops on the window" = "Les gouttes de pluie sur la fenêtre";
+"Rainy day" = "Le jour de pluie";
+"Flowing river" = "La rivière qui coule";
+"Spring morning with woodpecker and other birds" = "Le matin de printemps avec PIC et d’autres oiseaux";
+"Summer field with birds singing" = "Le champ de l’été avec le chant des oiseaux";
+"Summer night with bugs singing" = "La nuit d’été avec des bugs chantant";
+"Waves crashing on the sand" = "Les vagues qui s’écrasent sur le sable";
+"Windy autumn forest" = "La forêt d’automne venteuse";
+"Windy day" = "Journée venteuse";
+
+"Remove advertisement" = "Supprimer l’annonce";
+"Prohibit auto screen lock" = "Interdire le verrouillage automatique de l’écran";
+"Purchase now." = "Achetez-le dès maintenant.";
+"Already purchased ?" = "Déjà acheté ?";
+"Purchases are disabled in this device." = "Les achats sont désactivés dans ce dispositif.";
+"You need internet connection." = "Vous avez besoin d’une connexion internet.";
+"Can not find purchase record." = "Vous ne trouvez pas l’enregistrement d’achat.";
+"Fail to restore" = "La restauration a échoué";
+"You already purchased this item." = "Vous avez déjà acheté cet article.";
+
+"ftpMsg1" = "1. Ouvrez l’Explorateur Windows de l’ordinateur connecté au même réseau sans fil, que votre iPhone est connecté.";
+"ftpMsg2" = "2. Entrez l’adresse FTP ci-dessous dans la barre d’adresse de l’Explorateur Windows.";
+"ftpMsg3" = "3. copier les fichiers ou répertoires que vous souhaitez télécharger à l’Explorateur Windows.";
+"ftpMsg4" = "Remarque 1 : L’utilisation des programmes communs FTP est également disponible.";
+"ftpMsg5" = "Remarque 2 : La vitesse de transfert de FTP est lente. Lorsque vous transférez en grande taille de fichier, l’utilisation du partage d’iTunes est recommandée.";
+"itunesMsg1" = "1. Connectez votre iPhone à votre ordinateur et Ouvrez iTunes.";
+"itunesMsg2" = "2. après avoir sélectionné mon iPhone dans la catégorie périphériques, sélectionnez l’onglet APP.";
+"itunesMsg3" = "3. Sélectionnez HighStereo dans l’entrée de l’application dans la fenêtre de droite, sous partage de fichiers";
+"itunesMsg4" = "4. ajouter les fichiers ou répertoires que vous souhaitez télécharger dans la fenêtre de document de HighStereo.";
+
+"leaveAReview" = "Veuillez commenter au sujet de l’application.\n\nLes Commentaires sont une aide précieuse pour l’amélioration de l’application.\nJe vous remercie.";
+"leaveAReview1" = "Veuillez commenter au sujet de l’application.";
+"leaveAReview2" = "Les Commentaires sont une aide précieuse pour l’amélioration de l’application.\nJe vous remercie.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 min sur la façon de travailler\n30 min sur le chemin de l’école\n\nBientôt, vous commencerez à entendre parler anglais !";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Mot inconnu ?\nJuste le toucher !\n\nBuild word power\nwhile you're reading!";

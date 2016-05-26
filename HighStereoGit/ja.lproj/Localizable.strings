@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+
+"USER SETTINGS" = "ユーザー設定";
+"Save Current Settings" = "現在の設定を保存";
+"Delete" = "削除";
+"Setting Name" = "設定名";
+"Cancel" = "キャンセル";
+"Save" = "保存";
+"Move" = "移動";
+"Edit" = "Edit";
+"YES" = "はい";
+"NO" = "いいえ";
+"Playlist" = "プレイリスト";
+"Complete" = "完了";
+"Confirm" = "確認";
+"New Setting Name" = "新規設定名";
+"The setting will be deleted" = "設定が削除されます";
+"Channel" = "チャンネル";
+"Add Channel" = "チャンネル追加します";
+"Edit Channel" = "チャンネル編集";
+"Enter URL" = "URLを入力して下さい";
+"Search" = "検索";
+"No Search Results." = "検索結果無し。";
+"Name" = "名前";
+"Select Encoding" = "エンコードを選択";
+"Please enter URL" = "URLを入力してください";
+"Please enter server name." = "サーバー名を入力してください。";
+"Add PlayList" = "プレイリスト";
+"File Browsing" = "ファイルをブラウズする。";
+"The ftp server is started." = "ftpサーバが開始されました。";
+"The ftp server is shut down." = "ftpサーバーがシャットダウンされました";
+"ftp server is re-started." = "ftpサーバが再起動されています。";
+"New Folder" = "新しいフォルダ";
+"New file name" = "新しいファイル名";
+
+"selectFilsMsg" = "最初にファイルを選択して下さい。";
+"Delete Files" = "ファイルを削除します。";
+"FileDelMsg" = "選択したファイルが削除されます。";
+
+"File upload" = "ファイルアップロード";
+"FTP transfer" = "FTP転送";
+"iTunes Sharing" = "iTunes共有";
+"Quick Move" = "クイック移動";
+
+"New Name" = "新しい名前";
+"Encoding" = "エンコーディング";
+"New PlayList" = "新しいプレイリスト";
+"File" = "ファイル";
+"Select Files" = "ファイル選択";
+"Added to the playlist" = "プレイリストに追加されました";
+"PlayList will be created." = "プレイリストが作成されます";
+"Use currently playing file only." = "現在再生されているファイルのみ使用してください。";
+"Use currently playing list only." = "現在再生されているリストのみ使用してください。";
+"Use all files in the directory." = "ディレクトリのすべてのファイルを使用してください";
+"Use all files in the m3u playlist." = "m3uプレイリスト内のすべてのファイルを使用してください。";
+"Use all lists in the cue playlist." = "cueプレイリスト内のすべてのリストを使用してください。";
+"Save As" = "名前を付けて保存";
+"Please enter the playlist name." = "プレイリスト名を入力してください。";
+"The playlist has been saved." = "プレイリストが保存されている。";
+"The playlist is empty." = "再生リストは空です。";
+"Setup" = "セットアップ";
+"Minute" = "分";
+"Set Time" = "時間セット";
+"Select Time" = "時間選択";
+"Select Play" = "再生選択";
+"Mix Volume" = "Mix音量";
+"Volume" = "ボリューム";
+"Sound Mix" = "サウンドMix";
+"Nature Sounds" = "自然音";
+"Seagulls on the beach" = "ビーチのカモメ";
+"The sound of the sea beach" = "海のビーチ音";
+"Crickets at night" = "夜のコオロギ";
+"Fireplace" = "暖炉";
+"Lake at night" = "夜の湖";
+"Morning in the forest" = "森の中の朝";
+"The sound of the waves" = "波の音";
+"Raindrops on the window" = "窓の雨滴";
+"Rainy day" = "雨の日";
+"Flowing river" = "流れる川";
+"Spring morning with woodpecker and other birds" = "キツツキと他の鳥と春の朝";
+"Summer field with birds singing" = "鳥のさえずりと夏の牧場";
+"Summer night with bugs singing" = "夏の夜の虫の鳴き声";
+"Waves crashing on the sand" = "砂に当たる波";
+"Windy autumn forest" = "風の吹く秋の森";
+"Windy day" = "風の吹く日";
+
+"Remove advertisement" = "広告を消す";
+"Prohibit auto screen lock" = "自動画面ロックを停止する";
+"Purchase now." = "今購入する";
+"Already purchased ?" = "すでに購入した？";
+"Purchases are disabled in this device." = "このデバイスでは購入は無効になっています。";
+"You need internet connection." = "インターネット接続が必要です。";
+"Can not find purchase record." = "購入記録を見つけることができません。";
+"Fail to restore" = "復元に失敗し";
+"You already purchased this item." = "このアイテムは既に購入し済みです。";
+
+"ftpMsg1" = "1. あなたのiPhoneが接続されているのと同じワイヤレスネットワークに接続されたPCからWindowsエクスプローラを開いて下さい。";
+"ftpMsg2" = "2. Windowsのエクスプローラのアドレスバーに以下のFTPアドレスを入力して下さい。";
+"ftpMsg3" = "3. Windowsエクスプローラにアップロードするファイルまたはディレクトリをコピーして下さい。";
+"ftpMsg4" = "注意1:一般的なFTPプログラムの使用も提供しています。";
+"ftpMsg5" = "注意2:FTPの転送速度が遅いです。大きなサイズのファイルを転送する時はiTunes共有機能の使用を推奨します。";
+"itunesMsg1" = "1. お使いのコンピュータにiPhoneを接続しiTunesを開いて下さい。";
+"itunesMsg2" = "2. デバイスカテゴリのマイiPhoneを選択した後、APPタブを選択して下さい。";
+"itunesMsg3" = "3. 右側のウィンドウのファイル共有の下のアプリケーションエントリからHighStereoを選択して下さい。";
+"itunesMsg4" = "4. HighStereoのドキュメントウィンドウにアップロードするファイルまたはディレクトリを追加して下さい。";
+
+"leaveAReview" = "アプリについてコメントしてください\n\nレビューはアプリ改善の大きな助けです。\nありがとう。";
+"leaveAReview1" = "アプリについてコメントしてください";
+"leaveAReview2" = "レビューはアプリ改善の大きな助けです。\nありがとう。";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "仕事に行く途中の30分\n学校に行く途中の30分\n\nやがてあなたに英語が聞こえ始めます！";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "知らない言葉？\n押すだけ！\n\nBuild word power\nwhile you're reading!";

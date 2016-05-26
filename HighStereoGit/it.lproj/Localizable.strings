@@ -1,0 +1,129 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "IMPOSTAZIONI";
+"Save Current Settings" = "Salva impostazioni attuali";
+"Setting Name" = "Nome impostazione";
+"PlayList" = "Playlist";
+"New Setting Name" = "Nome nuova impostazione";
+"The setting will be deleted" = "L'impostazione verrà cancellata";
+"Channel" = "Canale radio";
+"Add Channel" = "Aggiungi canale";
+"Edit Channel" = "Modifica canale";
+"Enter URL" = "Inserisci URL";
+"Search" = "Cerca";
+"No Search Results." = "Nessun risultato";
+"Name" = "Nome";
+"Select Encoding" = "Seleziona Codifica";
+"Please enter URL" = "Inserire URL";
+"Please enter server name." = "Inserire nome del server";
+"Add PlayList" = "Playlist";
+"File Browsing" = "Esplora file";
+
+"ftp server is re-started." = "il server ftp è stato riavviato.";
+"New Folder" = "Nuova cartella";
+"New file name" = "Nuovo nome file";
+
+"iTunes Sharing" = "Condivisione iTunes";
+"Quick Move" = "Passa a";
+
+"New Name" = "Nuovo nome";
+"Encoding" = "Codifica";
+"New PlayList" = "Nuova PlayList";
+"File" = "File";
+"Select Files" = "Seleziona File";
+"Added to the playlist" = "Aggiunto alla playlist";
+"PlayList will be created." = "La PlayList verrà creata";
+"Use currently playing file only." = "Usa solo il file in riproduzione.";
+"Use currently playing list only." = "Usa solo la playlist in riproduzione.";
+"Use all files in the directory." = "Usa tutti i file nella directory.";
+"Use all files in the m3u playlist." = "Usa tutti i file nella playlist m3u.";
+"Use all lists in the cue playlist." = "Usa tutte le liste nella playlist cue.";
+"Save As" = "Salva con nome";
+"Please enter the playlist name." = "Inserire il nome della playlist.";
+"The playlist has been saved." = "La playlist è stata salvata.";
+"The playlist is empty." = "La playlist è vuota.";
+"Minute" = "Minuto";
+"Set Time" = "Setta il tempo";
+"Select Time" = "Seleziona il tempo";
+"Select Play" = "Seleziona Play";
+"Mix Volume" = "Mix Volume";
+"Volume" = "Volume";
+"Sound Mix" = "Sound Mix";
+"Nature Sounds" = "Suoni della natura";
+"Seagulls on the beach" = "Gabbiani sulla spiaggia";
+"The sound of the sea beach" = "I rumori della spiaggia";
+"Crickets at night" = "Cicale notturne";
+"Fireplace" = "Caminetto";
+"Lake at night" = "Il lago di notte";
+"Morning in the forest" = "La foresta al mattino";
+"The sound of the waves" = "Il rumore delle onde";
+"Raindrops on the window" = "Pioggia sulla finestra";
+"Rainy day" = "Giornata piovosa";
+"Flowing river" = "Lo scorrere del fiume";
+"Spring morning with woodpecker and other birds" = "Mattina primaverile con il picchio ed altri uccellini";
+"Summer field with birds singing" = "I campi estivi ed il canto degli uccelli";
+"Summer night with bugs singing" = "Notte estiva con i suoni degli insetti";
+"Waves crashing on the sand" = "Onde sulla sabbia";
+"Windy autumn forest" = "Ventosa foresta autunnale";
+"Windy day" = "Giornata ventosa";
+
+"Remove advertisement" = "Rimuovi la pubblicità";
+"Prohibit auto screen lock" = "Vieta il blocco schermo automatico";
+"Purchase now." = "Acquista ora.";
+"Already purchased ?" = "Già acquistato?";
+"Purchases are disabled in this device." = "Gli acquisti sono disabilitati su questo device.";
+"You need internet connection." = "Necessita di una connessione internet.";
+"Can not find purchase record." = "Impossibile trovare il record dell'acquisto.";
+"Fail to restore" = "Ripristino fallito";
+"You already purchased this item." = "Hai già acquistato questo elemento.";
+
+"ftpMsg5" = "Nota 2 : La velocità di trasferimento delll'FTP è lenta. E' preferibile usare iTunes Sharing per trasferire file molto grandi.";
+"ListeningDrillMsg" = "30 min mentre vai a lavoro\n30 min sulla strada per scuola\n\nTra poco inizierai ad ascoltare in inglese!";
+"WordsCatchMsg" = "Una parola sconosciuta?\nBasta toccarla!\n\nBuild word power\nwhile you're reading!";
+
+
+"leaveAReview" = "per favore lascia un commento sull'esperienza con l'app.\n\nLe recensioni sono un ottimo aiuto per migliorare l'app.\nGrazie";
+"leaveAReview1" = "per favore lascia un commento sull'esperienza con l'app.";
+"leaveAReview2" = "Le recensioni sono un ottimo aiuto per migliorare l'app.\nGrazie";
+
+"FTP transfer" = "Trasferimento FTP";
+
+"Confirm" = "Conferma";
+
+"YES" = "SI";
+"NO" = "NO";
+
+"The ftp server is started." = "Il server ftp è avviato.";
+"The ftp server is shut down." = "Il server ftp è fermo.";
+
+"selectFilsMsg" = "Seleziona prima i file.";
+"Delete Files" = "Elimina Files";
+"FileDelMsg" = "I file selezionati saranno eliminati.";
+
+"File upload" = "Caricamento file";
+
+"Setup" = "Setup";
+"Cancel" = "Annulla";
+"Save" = "Salva";
+"Edit" = "Modifica";
+"Complete" = "Completo";
+"Delete" = "Elimina";
+"Move" = "Sposta";
+
+"ftpMsg1" = "1. Apri Windows explorer dal PC connesso alla stessa rete wireless a cui è connesso il tuo iPhone.";
+"ftpMsg2" = "2. Inserisci l'indirizzo FTP sotto nella barra indirizzi di Windows explorer.";
+"ftpMsg3" = "3. Copia i file o le cartelle che vuoi caricare su  Windows Explorer";
+"ftpMsg4" = "Nota 1 : È disponibile anche l'uso di comuni programmi FTP.";
+"itunesMsg1" = "1. Connetti il tuo iPhone altro computer ed apri iTunes.";
+"itunesMsg2" = "2. Dopo aver selezionato  Il Mio iPhone nella categoria Dispositivi, seleziona la scheda APP.";
+"itunesMsg3" = "3. Seleziona HighStereo dalla lista applicazione nella finestra a destra, sotto Condivisione File.";
+"itunesMsg4" = "4. Aggiungi file o cartelle che vuoi caricare sulla finestra documento di file HighStereo.";
+
+"ListeningDrill" = "ListeningDrill";
+"WordsCatch" = "WordsCatch";

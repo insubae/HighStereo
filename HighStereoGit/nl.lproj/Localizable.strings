@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "INSTELLINGEN";
+"Save Current Settings" = "Huidige instellingen opslaan";
+"Delete" = "Verwijderen";
+"Setting Name" = "Naam instelling";
+"Cancel" = "Annuleren";
+"Save" = "Opslaan";
+"Move" = "Verplaatsen";
+"Edit" = "Bewerken";
+"YES" = "JA";
+"NO" = "NEE";
+"Playlist" = "Afspeellijst";
+"Complete" = "Voltooid";
+"Confirm" = "Bevestigen";
+"New Setting Name" = "Naam nieuwe instelling";
+"The setting will be deleted" = "De instelling wordt verwijderd";
+"Channel" = "Kanaal";
+"Add Channel" = "Kanaal toevoegen";
+"Edit Channel" = "Kanaal bewerken";
+"Enter URL" = "URL invoeren";
+"Search" = "Zoeken";
+"No Search Results." = "Geen zoekresultaten.";
+"Name" = "Naam";
+"Select Encoding" = "Kies codering";
+"Please enter URL" = "URL invoeren";
+"Please enter server name." = "Servernaam invoeren.";
+"Add PlayList" = "Afspeellijst";
+"File Browsing" = "Bestanden bladeren";
+"The ftp server is started." = "De FTP-server is gestart.";
+"The ftp server is shut down." = "De FTP-server is afgesloten.";
+"ftp server is re-started." = "FTP-server is opnieuw gestart.";
+"New Folder" = "Nieuwe map";
+"New file name" = "Nieuwe bestandsnaam";
+
+"selectFilsMsg" = "Selecteer eerst bestanden.";
+"Delete Files" = "Bestanden verwijderen";
+"FileDelMsg" = "Geselecteerde bestanden worden verwijderd.";
+
+"File upload" = "Bestand uploaden";
+"FTP transfer" = "FTP-transfer";
+"iTunes Sharing" = "iTunes Sharing";
+"Quick Move" = "Snel Verplaatsen";
+
+"New Name" = "Nieuwe naam";
+"Encoding" = "Codering";
+"New PlayList" = "Nieuwe afspeellijst";
+"File" = "Bestand";
+"Select Files" = "Selecteer bestanden";
+"Added to the playlist" = "Toegevoegd aan afspeellijst";
+"PlayList will be created." = "Afspeellijst wordt aangemaakt.";
+"Use currently playing file only." = "Gebruik alleen huidig afspelend bestand.";
+"Use currently playing list only." = "Gebruik alleen huidig afspelende lijst.";
+"Use all files in the directory." = "Gebruik alle bestanden in de map.";
+"Use all files in the m3u playlist." = "Gebruik alle bestanden in de m3u-afspeellijst.";
+"Use all lists in the cue playlist." = "Gebruik alle bestanden in de cue-afspeellijst.";
+"Save As" = "Opslaan als";
+"Please enter the playlist name." = "Gelieve de naam voor de afspeellijst in te voeren.";
+"The playlist has been saved." = "De afspeellijst is opgeslagen.";
+"The playlist is empty." = "De afspeellijst is leeg.";
+"Setup" = "Setup";
+"Minute" = "Minuut";
+"Set Time" = "Tijd instellen";
+"Select Time" = "Kies Tijd";
+"Select Play" = "Kies Afspelen";
+"Mix Volume" = "Mix Volume";
+"Volume" = "Volume";
+"Sound Mix" = "Soundmix";
+"Nature Sounds" = "Natuurgeluiden";
+"Seagulls on the beach" = "Meeuwen op het strand";
+"The sound of the sea beach" = "Geluid van zeestrand";
+"Crickets at night" = "Krekels 's nachts";
+"Fireplace" = "Openhaard";
+"Lake at night" = "Meer 's nachts";
+"Morning in the forest" = "Ochtend in het bos";
+"The sound of the waves" = "Geluid van golven";
+"Raindrops on the window" = "Regendruppels tegen het raam";
+"Rainy day" = "Regenachtige dag";
+"Flowing river" = "Stromende rivier";
+"Spring morning with woodpecker and other birds" = "Lente-ochtend met specht en andere vogels";
+"Summer field with birds singing" = "Zomers veld met zingende vogels";
+"Summer night with bugs singing" = "Zomerse nacht met zingende insecten";
+"Waves crashing on the sand" = "Golven op het zand";
+"Windy autumn forest" = "Winderig herfstbos";
+"Windy day" = "Winderige dag";
+
+"Remove advertisement" = "Verwijder reclame";
+"Prohibit auto screen lock" = "Verbied auto screen lock";
+"Purchase now." = "Nu kopen.";
+"Already purchased ?" = "Al gekocht?";
+"Purchases are disabled in this device." = "Aankopen zijn uitgeschakeld op dit apparaat.";
+"You need internet connection." = "Je hebt een internetverbinding nodig.";
+"Can not find purchase record." = "Kan aankoopvermelding niet vinden.";
+"Fail to restore" = "Herstel mislukt";
+"You already purchased this item." = "Je hebt dit item al gekocht.";
+
+"ftpMsg1" = "1. Open de Windows Verkenner op een pc verbonden met hetzelfde draadloze netwerk als jouw iPhone.";
+"ftpMsg2" = "2. Voer het FTP-adres hieronder in in de adresbalk van de Windows Verkenner.";
+"ftpMsg3" = "3. Kopieer de bestanden of mappen die je wilt uploaden naar de Windows Verkenner.";
+"ftpMsg4" = "Let op 1: Het gebruik van de gebruikelijke FTP-programma's is ook beschikbaar.";
+"ftpMsg5" = "Let op 2: De overdrachtsnelheid van FTP is traag. Wanneer je grote bestanden overschrijft, is het gebruik van iTunes aanbevolen.";
+"itunesMsg1" = "1. Verbind je iPhone aan je computer en open iTunes.";
+"itunesMsg2" = "2. Wanneer je Mijn iPhone hebt geselecteerd in de categorie Apparaten, kies dan de APP-tab.";
+"itunesMsg3" = "3. Kies HighStereo uit de applicatievermelding in het rechterscherm, onder Bestanden Delen";
+"itunesMsg4" = "4. Kies bestanden of mappen die je wilt uploaden naar het documentenscherm van HighStereo.";
+
+"leaveAReview" = "Gelieve een reactie achter te laten over de app.\n\nBeoordelingen zijn erg nuttig ter verbetering van de app.\nBedankt.";
+"leaveAReview1" = "Gelieve een reactie achter te laten over de app.";
+"leaveAReview2" = "Beoordelingen zijn erg nuttig ter verbetering van de app.\nBedankt.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 min onderweg naar werk\n30 min onderweg naar school\n\nBinnenkort hoor je Engels!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Onbekend woord?\nGewoon aanraken!\n\nBuild word power\nwhile you're reading!";

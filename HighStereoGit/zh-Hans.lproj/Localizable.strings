@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "用户设置";
+"Save Current Settings" = "保存目前设置";
+"Delete" = "删除";
+"Setting Name" = "设置名称";
+"Cancel" = "取消";
+"Save" = "保存";
+"Move" = "移动";
+"Edit" = "编辑";
+"YES" = "是";
+"NO" = "否";
+"Playlist" = "播放列表";
+"Complete" = "完成";
+"Confirm" = "确认";
+"New Setting Name" = "新设置名称";
+"The setting will be deleted" = "该设置将被删除";
+"Channel" = "渠道";
+"Add Channel" = "添加渠道";
+"Edit Channel" = "编辑渠道";
+"Enter URL" = "输入URL";
+"Search" = "搜索";
+"No Search Results." = "无搜索结果。";
+"Name" = "名称";
+"Select Encoding" = "选择编码";
+"Please enter URL" = "请输入URL";
+"Please enter server name." = "请输入服务器名称。";
+"Add PlayList" = "播放列表";
+"File Browsing" = "文件浏览";
+"The ftp server is started." = "FTP服务器已经启动。";
+"The ftp server is shut down." = "FTP服务器被关闭。";
+"ftp server is re-started." = "FTP服务器重新启动。";
+"New Folder" = "新建文件夹";
+"New file name" = "新的文件名";
+
+"selectFilsMsg" = "先选择文件。";
+"Delete Files" = "删除文件";
+"FileDelMsg" = "选择的文件将被删除。";
+
+"File upload" = "上传文件";
+"FTP transfer" = "FTP传输";
+"iTunes Sharing" = "iTunes共享";
+"Quick Move" = "快速移动";
+
+"New Name" = "新名称";
+"Encoding" = "编码";
+"New PlayList" = "新建播放列表";
+"File" = "文件";
+"Select Files" = "选择文件";
+"Added to the playlist" = "添加到播放列表";
+"PlayList will be created." = "播放列表将被创建。";
+"Use currently playing file only." = "使用目前打开的文件。";
+"Use currently playing list only." = "只使用目前的清单。";
+"Use all files in the directory." = "使用的所有目录的文件。";
+"Use all files in the m3u playlist." = "使用在m3u播放的所有文件";
+"Use all lists in the cue playlist." = "使用在cue播放的所有文件";
+"Save As" = "另存为";
+"Please enter the playlist name." = "请输入播放列表的名称。";
+"The playlist has been saved." = "播放列表已保存。";
+"The playlist is empty." = "播放列表是空的。";
+"Setup" = "建立";
+"Minute" = "分钟";
+"Set Time" = "设置时间";
+"Select Time" = "选择时间";
+"Select Play" = "选择播放";
+"Mix Volume" = "混合音量";
+"Volume" = "音量";
+"Sound Mix" = "混音";
+"Nature Sounds" = "自然声音";
+"Seagulls on the beach" = "在沙滩上的海鸥";
+"The sound of the sea beach" = "海边沙滩的声音";
+"Crickets at night" = "晚上的蟋蟀";
+"Fireplace" = "壁炉";
+"Lake at night" = "晚上的湖";
+"Morning in the forest" = "早上的森林";
+"The sound of the waves" = "海浪的声音";
+"Raindrops on the window" = "在窗口上的雨滴";
+"Rainy day" = "下雨天";
+"Flowing river" = "河流";
+"Spring morning with woodpecker and other birds" = "春天的早晨，啄木鸟等鸟类";
+"Summer field with birds singing" = "有鸟叫声的夏季";
+"Summer night with bugs singing" = "有虫唱歌的夏季晚上";
+"Waves crashing on the sand" = "海浪拍击沙滩";
+"Windy autumn forest" = "刮风秋季森林";
+"Windy day" = "刮风的一天";
+
+"Remove advertisement" = "删除广告";
+"Prohibit auto screen lock" = "禁止自动锁屏";
+"Purchase now." = "现在购买。";
+"Already purchased ?" = "已经购买了？";
+"Purchases are disabled in this device." = "在这个设备的购买被禁用。";
+"You need internet connection." = "你需要互联网连接。";
+"Can not find purchase record." = "找不到购买记录。";
+"Fail to restore" = "无法还原";
+"You already purchased this item." = "你已经购买了这个物件。";
+
+"ftpMsg1" = "1. 从iPhone连接到的同一个无线网络的中PC打开Windows资源管理器。";
+"ftpMsg2" = "2. 在Windows资源管理器地址栏输入FTP地址。";
+"ftpMsg3" = "3. 复制你要上传到Windows资源管理器的文件或者目录。";
+"ftpMsg4" = "注1：使用普通的FTP程序也可提供。";
+"ftpMsg5" = "注2：FTP传输的速度较慢。当你传输文件的大小大，建议使用iTunes的共享。";
+"itunesMsg1" = "1. 将iPhone连接到电脑然后打开iTunes。";
+"itunesMsg2" = "2. 在设备类别中选择我的iPhone后选择APP选项卡。";
+"itunesMsg3" = "3. 从右侧窗口中的应用程序项的，在文件共享下选择HighStereo";
+"itunesMsg4" = "4. 添加你要上传的文件或目录至HighStereo的文档窗口。";
+
+"leaveAReview" = "请对有关应用程序发表评论。\n\n评论是对应用程序的改善有很大的帮助。\n谢谢";
+"leaveAReview1" = "请对有关应用程序发表评论。";
+"leaveAReview2" = "评论是对应用程序的改善有很大的帮助。\n谢谢";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30分钟路程去工作\n30分钟路程去上学\n\n很快你就会开始听英语！";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "未知名的词吗？\n只需触摸它！\n\nBuild word power\nwhile you're reading!";

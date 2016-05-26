@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "THIẾT LẬP NGƯỜI DÙNG";
+"Save Current Settings" = "Lưu Thiết lập hiện tại";
+"Delete" = "Xóa";
+"Setting Name" = "Tên thiết lập";
+"Cancel" = "hủy bỏ";
+"Save" = "Lưu";
+"Move" = "Chuyển";
+"Edit" = "Chỉnh sửa";
+"YES" = "CÓ";
+"NO" = "KHÔNG";
+"Playlist" = "Danh sách phát";
+"Complete" = "Hoàn thành";
+"Confirm" = "Xác nhận";
+"New Setting Name" = "Tên thiết lập mới";
+"The setting will be deleted" = "Thiết lập này sẽ bị xóa";
+"Channel" = "Kênh";
+"Add Channel" = "Thêm kênh";
+"Edit Channel" = "Chỉnh sửa kênh";
+"Enter URL" = "Nhập URL";
+"Search" = "Tìm kiếm";
+"No Search Results." = "Không có kết quả tìm kiếm.";
+"Name" = "Tên";
+"Select Encoding" = "Chọn Mã hoá";
+"Please enter URL" = "Vui lòng nhập URL";
+"Please enter server name." = "Vui lòng nhập tên máy chủ.";
+"Add PlayList" = "Danh sách phát";
+"File Browsing" = "Lướt chọn tập tin";
+"The ftp server is started." = "Máy chủ ftp đã khởi động.";
+"The ftp server is shut down." = "Máy chủ ftp đã tắt.";
+"ftp server is re-started." = "máy chủ ftp đã được khởi động lại.";
+"New Folder" = "Thư mục mới";
+"New file name" = "Tên tập tin mới";
+
+"selectFilsMsg" = "Chọn tập tin đầu tiên.";
+"Delete Files" = "Xóa các tập tin";
+"FileDelMsg" = "Tập tin được chọn sẽ bị xóa.";
+
+"File upload" = "Tải lên tập tin";
+"FTP transfer" = "Chuyển FTP";
+"iTunes Sharing" = "iTunes Sharing";
+"Quick Move" = "Di chuyển nhanh";
+
+"New Name" = "Tên mới";
+"Encoding" = "Mã hoá";
+"New PlayList" = "Danh sách phát mới";
+"File" = "Tập tin";
+"Select Files" = "Chọn tập tin";
+"Added to the playlist" = "Đã thêm vào danh sách phát";
+"PlayList will be created." = "Danh sách phát sẽ được tạo ra.";
+"Use currently playing file only." = "Chỉ sử dụng tập tin phát hiện tại.";
+"Use currently playing list only." = "Chỉ sử dụng danh sách phát hiện tại.";
+"Use all files in the directory." = "Sử dụng tất cả tập tin trong thư mục.";
+"Use all files in the m3u playlist." = "Sử dụng tất cả tập tin trong danh sách phát m3u.";
+"Use all lists in the cue playlist." = "Sử dụng tất cả danh sách trong danh sách phát cue.";
+"Save As" = "Lưu thành";
+"Please enter the playlist name." = "Vui lòng nhập tên danh sách phát.";
+"The playlist has been saved." = "Danh sách phát đã được lưu.";
+"The playlist is empty." = "Danh sách phát rỗng.";
+"Setup" = "Cài đặt";
+"Minute" = "Phút";
+"Set Time" = "Cài đặt thời gian";
+"Select Time" = "Chọn Thời gian";
+"Select Play" = "Chọn Phát";
+"Mix Volume" = "Âm lượng trộn";
+"Volume" = "Âm lượng";
+"Sound Mix" = "Âm thanh trộn";
+"Nature Sounds" = "Âm thanh thiên nhiên";
+"Seagulls on the beach" = "Hải âu trên biển";
+"The sound of the sea beach" = "Âm thanh của bãi biển";
+"Crickets at night" = "Dế đêm";
+"Fireplace" = "Lò sưởi";
+"Lake at night" = "Hồ ban đêm";
+"Morning in the forest" = "Buổi sáng trong rừng";
+"The sound of the waves" = "Âm thanh của sóng";
+"Raindrops on the window" = "Hạt mưa trên cửa sổ";
+"Rainy day" = "Ngày mưa";
+"Flowing river" = "Dòng sông chảy";
+"Spring morning with woodpecker and other birds" = "Sáng mùa xuân với chim gõ kiến và các loài chim khác";
+"Summer field with birds singing" = "Cánh đồng mùa hè với tiếng chim hót";
+"Summer night with bugs singing" = "Đêm mùa hè với các chú bọ ca hát";
+"Waves crashing on the sand" = "Sóng vỗ vào cát";
+"Windy autumn forest" = "Rừng thu lộng gió";
+"Windy day" = "Ngày gió";
+
+"Remove advertisement" = "Loại bỏ quảng cáo";
+"Prohibit auto screen lock" = "Cấm khóa màn hình tự động";
+"Purchase now." = "Mua ngay.";
+"Already purchased ?" = "Đã mua ?";
+"Purchases are disabled in this device." = "Mua bị vô hiệu hóa ở thiết bị này.";
+"You need internet connection." = "Bạn cần kết nối internet.";
+"Can not find purchase record." = "Không thể tìm thấy lịch sử mua.";
+"Fail to restore" = "Không khôi phục lại";
+"You already purchased this item." = "Bạn đã mua mặt hàng này.";
+
+"ftpMsg1" = "1. Mở Windows Explorer từ máy tính đã kết nối với cùng mạng không dây của iPhone.";
+"ftpMsg2" = "2. Nhập địa chỉ FTP dưới đây vào thanh địa chỉ của Windows Explorer.";
+"ftpMsg3" = "3. Sao chép các tập tin hoặc thư mục bạn muốn tải lên Windows Explorer.";
+"ftpMsg4" = "Lưu ý 1 : Việc sử dụng các chương trình FTP phổ biến cũng có sẵn.";
+"ftpMsg5" = "Lưu ý 2 : Tốc độ Chuyển của FTP chậm. Khi bạn chuyển tập tin kích thước lớn, chúng tôi khuyến khích sử dụng iTunes Sharing.";
+"itunesMsg1" = "1. Kết nối iPhone vào máy tính của bạn và mở iTunes.";
+"itunesMsg2" = "2. Sau khi chọn iPhone của tôi trong danh mục Thiết bị, chọn tab ỨNG DỤNG.";
+"itunesMsg3" = "3. Chọn HighStereo từ mục ứng dụng trong cửa sổ bên phải, dưới File Sharing";
+"itunesMsg4" = "4. Thêm các tập tin hoặc thư mục bạn muốn tải lên cửa sổ tài liệu của HighStereo.";
+
+"leaveAReview" = "Xin nhận xét về ứng dụng.\n\nCác đánh giá là sự trợ giúp lớn để cải thiện ứng dụng.\nCảm ơn bạn.";
+"leaveAReview1" = "Xin nhận xét về ứng dụng.";
+"leaveAReview2" = "Các đánh giá là sự trợ giúp lớn để cải thiện ứng dụng.\nCảm ơn bạn.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 phút trên đường đi làm\n30 phút trên đường đến trường\n\nChẳng bao lâu bạn sẽ bắt đầu nghe tiếng Anh!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Có từ không biết?\nChỉ cần chạm vào nó!\n\nBuild word power\nwhile you're reading!";

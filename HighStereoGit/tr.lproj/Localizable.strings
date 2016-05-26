@@ -1,0 +1,128 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "KULLANICI AYARLARI ";
+"Save Current Settings" = "Mevcut Ayarları Kaydet ";
+"Setting Name" = "Ayar Adı";
+"PlayList" = "PlayList";
+"New Setting Name" = "Yeni Ayar Adı";
+"The setting will be deleted" = "Ayarlama silinecek ";
+"Channel" = "İstasyon";
+"Add Channel" = "İstasyon Ekle";
+"Edit Channel" = "İstasyonu Düzenle";
+"Enter URL" = "URL gir";
+"Search" = "Ara";
+"No Search Results." = "Herhangi Bir Sonuç Bulunamadı.";
+"Name" = "İsim";
+"Select Encoding" = "Kodlama Seç ";
+"Please enter URL" = "Lütfen URL girin";
+"Please enter server name." = "Lütfen sunucu adın girin";
+"Add PlayList" = "Playlist";
+"File Browsing" = "Dosya Araştır";
+
+"ftp server is re-started." = "ftp sunucusu yeniden başlatıldı.";
+"New Folder" = "Yeni Klasör";
+"New file name" = "Yeni dosya adı";
+
+"File upload" = "Dosya yükle";
+"iTunes Sharing" = "iTunes Paylaşımı";
+"Quick Move" = "Hızlı Taşıma";
+
+"New Name" = "Yeni Ad";
+"Encoding" = "Kodlama";
+"New PlayList" = "Yeni PlayList";
+"File" = "Dosya";
+"Select Files" = "Dosya Seç";
+"Added to the playlist" = "Playliste eklendi";
+"PlayList will be created." = "PlayList oluşturulacak.";
+"Use currently playing file only." = "Sadece şuan çalan dosyayı kullan.";
+"Use currently playing list only." = "Sadece şuan çalan listeyi kullan.";
+"Use all files in the directory." = "Konumdaki tüm dosyaları kullan.";
+"Use all files in the m3u playlist." = "m3u playlistindeki tüm dosyaları kullan.";
+"Use all lists in the cue playlist." = "cue playlistindeki tüm listeleri kullan.";
+"Save As" = "Farklı Kaydet";
+"Please enter the playlist name." = "Lütfen playlist adını girin.";
+"The playlist has been saved." = "Playlist kaydedildi.";
+"The playlist is empty." = "Playlist boş.";
+"Minute" = "Dakika";
+"Set Time" = "Zamanı Ayarla";
+"Select Time" = "Zaman Seç";
+"Select Play" = "Oynatıcı Seç ";
+"Mix Volume" = "Karıştırıcı Sesi ";
+"Volume" = "Ses";
+"Sound Mix" = "Ses Mikseri";
+"Nature Sounds" = "Doğa Sesleri ";
+"Seagulls on the beach" = "Sahildeki martılar";
+"The sound of the sea beach" = "Sahilde deniz sesi";
+"Crickets at night" = "Gece cırcır böcekleri";
+"Fireplace" = "Şömine";
+"Lake at night" = "Gece vakti göl";
+"Morning in the forest" = "Ormanda bir sabah ";
+"The sound of the waves" = "Dalga sesleri";
+"Raindrops on the window" = "Pencereye çarpan yağmur";
+"Rainy day" = "Yağmurlu gün";
+"Flowing river" = "Coşkun ırmak";
+"Spring morning with woodpecker and other birds" = "Ağaçkakan ve diğer kuşlarla bir bahar sabahı";
+"Summer field with birds singing" = "Kuş sesleri ile bir yaz ovası";
+"Summer night with bugs singing" = "Böcek sesleri ile bir yaz gecesi";
+"Waves crashing on the sand" = "Sahile vuran dalgalar";
+"Windy autumn forest" = "Rüzgârlı sonbahar ormanı";
+"Windy day" = "Rüzgârlı gün";
+
+"Remove advertisement" = "Reklamları kaldır";
+"Prohibit auto screen lock" = "Otomatik ekran kilidini engelle";
+"Purchase now." = "Şimdi satın al.";
+"Already purchased ?" = "Zaten satın aldınız mı?";
+"Purchases are disabled in this device." = "Bu cihazda satın almalar kapalı.";
+"You need internet connection." = "İnternet bağlantısı gerekli.";
+"Can not find purchase record." = "Satın alınma kaydı bulunamadı.";
+"Fail to restore" = "Yenileme başarısız";
+"You already purchased this item." = "Bu ürünü zaten satın almışsınız.";
+
+"ftpMsg5" = "Not 2 : FTP transfer hızı yavaş. Büyük boyutlu dosyaların transferi için iTunes paylaşımı önerilmektedir.";
+"ListeningDrillMsg" = "İşe giderken 30 dakika \nOkula giderken 30 dakika \n\nKısa zamanda İngilizceyi anlamaya başlayacaksınız!";
+"WordsCatchMsg" = "Bilinmeyen kelime mi?\nSadece dokunmanız yeterli!\n\nBuild word power\nwhile you're reading!";
+
+
+"leaveAReview" = "Lütfen uygulama deneyiminizle ilgili bir yorum yazın.\n\nDeğerlendirmeler uygulamanın gelişimine çok büyük bir katkı sağlar.\nTeşekkürler.";
+"leaveAReview1" = "Lütfen uygulama deneyiminizle ilgili bir yorum yazın.";
+"leaveAReview2" = "Değerlendirmeler uygulamanın gelişimine çok büyük bir katkı sağlar.\nTeşekkürler.";
+
+"FTP transfer" = "FTP aktarımı";
+
+"Confirm" = "Onayla";
+
+"YES" = "EVET";
+"NO" = "HAYIR";
+
+"The ftp server is started." = "Ftp sunucusu başladı.";
+"The ftp server is shut down." = "Ftp sunucusu kapandı.";
+
+"selectFilsMsg" = "Önce dosyaları seçiniz.";
+"Delete Files" = "Dosyaları Sil";
+"FileDelMsg" = "Seçilen dosyalar silinecek.";
+
+"Setup" = "Kurulum";
+"Cancel" = "İptal";
+"Save" = "Kaydet";
+"Edit" = "Düzenle";
+"Complete" = "Tamamla";
+"Delete" = "Sil";
+"Move" = "Taşı";
+
+"ftpMsg1" = "1. iPhone’unuzla aynı kablosuza bağlanan bilgisayarınızdan Windows Explorer’i açın.";
+"ftpMsg2" = "2. Aşağıdaki FTP adresini Windows Explorer adres çubuğuna girin.";
+"ftpMsg3" = "3. Yüklemek istediğiniz dosyaları veya dizinleri Windows Explorer’e kopyalayın";
+"ftpMsg4" = "Not 1 : Ayrıca yaygın FTP programlarının kullanımı da mevcuttur.";
+"itunesMsg1" = "1. Bilgisayarınızdan iPhone’unuza bağlanın ve iTunes’u açın.";
+"itunesMsg2" = "2. iPhone’umu seçtikten sonra, APP sekmesini seçin.";
+"itunesMsg3" = "3. Dosya Paylaşımının altında, sağ penceredeki uygulama girişinden HighStereo’ı seçin.";
+"itunesMsg4" = "HighStereo’ın belge penceresine upload etmek istediğiniz dosyaları veya dizinleri ekleyin.";
+
+"ListeningDrill" = "ListeningDrill";
+"WordsCatch" = "WordsCatch";

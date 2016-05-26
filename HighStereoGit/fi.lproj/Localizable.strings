@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "KÄYTTÄJÄ ASETUKSET";
+"Save Current Settings" = "Tallenna Nykyiset Asetukset";
+"Delete" = "Poista";
+"Setting Name" = "Asetuksen nimi";
+"Cancel" = "Peruuta";
+"Save" = "Tallenna";
+"Move" = "Siirrä";
+"Edit" = "Muokkaa";
+"YES" = "KYLLÄ";
+"NO" = "EI";
+"Playlist" = "Soittolista";
+"Complete" = "Valmis";
+"Confirm" = "Varmista";
+"New Setting Name" = "Uuden Asetuksen Nimi";
+"The setting will be deleted" = "Asetus poistetaan";
+"Channel" = "Kanava";
+"Add Channel" = "Lisää Kanava";
+"Edit Channel" = "Muokkaa Kanavaa";
+"Enter URL" = "Syötä URL";
+"Search" = "Etsi";
+"No Search Results." = "Ei Hakutuloksia.";
+"Name" = "Nimi";
+"Select Encoding" = "Valitse Koodaus";
+"Please enter URL" = "Syötä URL";
+"Please enter server name." = "Syötä palvelimen nimi";
+"Add PlayList" = "Soittolista";
+"File Browsing" = "Tiedostojen Selaaminen";
+"The ftp server is started." = "Ftp-palvelin on käynnissä.";
+"The ftp server is shut down." = "Ftp-palvelin on pois päältä.";
+"ftp server is re-started." = "Ftp-palvelin käynnistettiin uudelleen.";
+"New Folder" = "Uusi Kansio";
+"New file name" = "Uusi tiedostonimi";
+
+"selectFilsMsg" = "Valitse ensin tiedostot.";
+"Delete Files" = "Poista Tiedostoja";
+"FileDelMsg" = "Valitut tiedostot poistetaan.";
+
+"File upload" = "Tiedoston lataus";
+"FTP transfer" = "FTP transfer";
+"iTunes Sharing" = "iTunes Sharing";
+"Quick Move" = "Quick Move";
+
+"New Name" = "Uusi Nimi";
+"Encoding" = "Koodaus";
+"New PlayList" = "Uusi Soittolista";
+"File" = "Tiedosto";
+"Select Files" = "Valitse Tiedostot";
+"Added to the playlist" = "Lisätty soittolistalle";
+"PlayList will be created." = "Luodaan soittolista.";
+"Use currently playing file only." = "Käytä vain soitossa olevaa tiedostoa.";
+"Use currently playing list only." = "Käytä vain soitossa olevaa listaa.";
+"Use all files in the directory." = "Käytä luettelon kaikkia tiedostoja.";
+"Use all files in the m3u playlist." = "Käytä m3u soittolistan kaikkia tiedostoja.";
+"Use all lists in the cue playlist." = "Käytä kaikkia cue-soittolistan listoja.";
+"Save As" = "Tallenna Nimellä";
+"Please enter the playlist name." = "Nimeä soittolista.";
+"The playlist has been saved." = "Soittolista on tallennettu.";
+"The playlist is empty." = "Soittolista on tyhjä.";
+"Setup" = "Asennus";
+"Minute" = "Minuutti";
+"Set Time" = "Aseta Aika";
+"Select Time" = "Valitse Aika";
+"Select Play" = "Valitse Play";
+"Mix Volume" = "Mix Volume";
+"Volume" = "Äänentaso";
+"Sound Mix" = "Sound Mix";
+"Nature Sounds" = "Luonnonäänet";
+"Seagulls on the beach" = "Lokit rannalla";
+"The sound of the sea beach" = "Merenrannan äänet";
+"Crickets at night" = "Öiset heinäsirkat";
+"Fireplace" = "Takka";
+"Lake at night" = "Öinen järvi";
+"Morning in the forest" = "Aamuinen metsä";
+"The sound of the waves" = "Laineiden äänet";
+"Raindrops on the window" = "Sadepisarat ikkunassa";
+"Rainy day" = "Sadepäivä";
+"Flowing river" = "Virtaava joki";
+"Spring morning with woodpecker and other birds" = "Tikka ja muut linnut kevätaamussa";
+"Summer field with birds singing" = "Kesäinen laidun ja lintujen laulu";
+"Summer night with bugs singing" = "Kesäyö ja hyönteisten laulu";
+"Waves crashing on the sand" = "Aaltojen iskeytyminen hiekkaan";
+"Windy autumn forest" = "Tuulinen syysmetsä";
+"Windy day" = "Tuulinen päivä";
+
+"Remove advertisement" = "Poista mainokset";
+"Prohibit auto screen lock" = "Estä automaattinen näytön lukkiutuminen";
+"Purchase now." = "Osta nyt";
+"Already purchased ?" = "Jo ostettu?";
+"Purchases are disabled in this device." = "Tällä laitteella ostaminen on estetty.";
+"You need internet connection." = "Tarvitset internet-yhteyden.";
+"Can not find purchase record." = "Ostohistoriaa ei löydy.";
+"Fail to restore" = "Palauttaminen epäonnistui";
+"You already purchased this item." = "Olet jo ostanut tämän tuotteen.";
+
+"ftpMsg1" = "1. OAvaa Windows explorer tietokoneella, joka on yhteydessä samaan langattomaan verkkoon kuin iPhonesi.";
+"ftpMsg2" = "2. Syötä FTP-osoite Windows explorerin osoitekenttään.";
+"ftpMsg3" = "3. Kopioi ne tiedostot tai luettelot, jotka haluat ladata Windows Exploreriin.";
+"ftpMsg4" = "Huom 1 : Yleisten FTP-ohjelmien käyttäminen on myös mahdollista.";
+"ftpMsg5" = "Huom 2 : FTP:n tiedonsiirtonopeus on hidas. Suosittelemme käyttämään iTunes Sharing silloin, kun siirrät suurikokoisia tiedostoja.";
+"itunesMsg1" = "1. Yhdistä iPhone tietokoneeseen ja avaa  iTunes.";
+"itunesMsg2" = "2. Valitse Minun iPhoneni Laitteet-osiosta ja valitse APP.";
+"itunesMsg3" = "3. Valitse oikeasta ikkunasta HighStereo, Tiedostojen Jakaminen-kohdasta.";
+"itunesMsg4" = "4. Lisää tiedostoja tai luetteloita jotka haluat ladata HighStereon asiakirjaikkunaan.";
+
+"leaveAReview" = "Kommentoithan sovellusta.\n\nArviot auttavat meitä parantamaan Sovellusta.\nKiitos.";
+"leaveAReview1" = "Kommentoithan sovellusta.";
+"leaveAReview2" = "Arviot auttavat meitä parantamaan Sovellusta.\nKiitos.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 min matkalla töihin\n30 min matkalla kouluun\n\nPian alat kuulla englantia!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Tuntematon sana?\nPaina sitä!\n\nBuild word power\nwhile you're reading!";

@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "TETAPAN PENGGUNA";
+"Save Current Settings" = "Simpan Tetapan Semasa";
+"Delete" = "Padam";
+"Setting Name" = "Nama Tetapan";
+"Cancel" = "Batal";
+"Save" = "Simpan";
+"Move" = "Pindah";
+"Edit" = "Sunting";
+"YES" = "YA";
+"NO" = "TIDAK";
+"Playlist" = "Senarai Main";
+"Complete" = "Selesai";
+"Confirm" = "Sahkan";
+"New Setting Name" = "Nama Tetapan Baru";
+"The setting will be deleted" = "Tetapan akan dipadam";
+"Channel" = "Siaran";
+"Add Channel" = "Tambah Siaran";
+"Edit Channel" = "Sunting Siaran";
+"Enter URL" = "Masukkan URL";
+"Search" = "Cari";
+"No Search Results." = "Tiada Hasil Carian.";
+"Name" = "Nama";
+"Select Encoding" = "Pilih Pengekodan";
+"Please enter URL" = "Sila masukkan URL";
+"Please enter server name." = "Sila masukkan nama pelayan.";
+"Add PlayList" = "Senarai Main";
+"File Browsing" = "Imbasan Fail";
+"The ftp server is started." = "Pelayan ftp telah bermula.";
+"The ftp server is shut down." = "Pelayan ftp ditutup.";
+"ftp server is re-started." = "Pelayan ftp dimulakan semula.";
+"New Folder" = "Folder Baru.";
+"New file name" = "Nama fail baru";
+
+"selectFilsMsg" = "Pilih fail dahulu.";
+"Delete Files" = "Padam Fail.";
+"FileDelMsg" = "Fail yang dipilih akan dipadam.";
+
+"File upload" = "Muat naik fail";
+"FTP transfer" = "Pindah FTP";
+"iTunes Sharing" = "Perkongsian iTunes";
+"Quick Move" = "Pergerakan Pantas";
+
+"New Name" = "Nama Baru";
+"Encoding" = "Pengekodan";
+"New PlayList" = "Senarai Main Baru";
+"File" = "Fail";
+"Select Files" = "Pilih Fail";
+"Added to the playlist" = "Ditambah ke senarai main";
+"PlayList will be created." = "Senarai Main akan dicipta.";
+"Use currently playing file only." = "Guna fail yang sedang dimainkan sahaja.";
+"Use currently playing list only." = "Guna senarai main semasa sahaja.";
+"Use all files in the directory." = "Guna semua fail dalam direktori.";
+"Use all files in the m3u playlist." = "Guna semua fail dalam senarai main m3u.";
+"Use all lists in the cue playlist." = "Guna semua senarai dalam isyarat senarai main.";
+"Save As" = "Simpan Sebagai";
+"Please enter the playlist name." = "Sila masukkan nama senarai main.";
+"The playlist has been saved." = "Senarai main telah disimpan.";
+"The playlist is empty." = "Senarai main kosong.";
+"Setup" = "Pemasangan";
+"Minute" = "Minit";
+"Set Time" = "Tetap Masa";
+"Select Time" = "Pilih Masa";
+"Select Play" = "Pilih Main";
+"Mix Volume" = "Campur Kelantangan";
+"Volume" = "Kelantangan";
+"Sound Mix" = "Campuran Bunyi";
+"Nature Sounds" = "Bunyi Semula Jadi";
+"Seagulls on the beach" = "Burung Camar di pantai";
+"The sound of the sea beach" = "Bunyi deru angin di pantai";
+"Crickets at night" = "Cengkerik di waktu malam";
+"Fireplace" = "Unggun api";
+"Lake at night" = "Tasik di malam hari";
+"Morning in the forest" = "Hening pagi di dalam hutan";
+"The sound of the waves" = "Bunyi ombak laut";
+"Raindrops on the window" = "Rintik hujan di tingkap";
+"Rainy day" = "Hari hujan";
+"Flowing river" = "Sungai yang mengalir";
+"Spring morning with woodpecker and other birds" = "Pagi musim bunga dengan bunyi burung belatuk dan burung-burung lain";
+"Summer field with birds singing" = "Padang sewaktu musim panas dengan burung berkicauan";
+"Summer night with bugs singing" = "Malam musim panas dengan bunyi kumbang menyanyi";
+"Waves crashing on the sand" = "Ombak menghempas pasir pantai";
+"Windy autumn forest" = "Deru angin dalam hutan di musim luruh";
+"Windy day" = "Hari berangin";
+
+"Remove advertisement" = "Buang iklan";
+"Prohibit auto screen lock" = "Halang kunci skrin auto";
+"Purchase now." = "Beli sekarang.";
+"Already purchased ?" = "Sudah membeli?";
+"Purchases are disabled in this device." = "Pembelian dilumpuhkan untuk peranti ini.";
+"You need internet connection." = "Anda memerlukan sambungan internet.";
+"Can not find purchase record." = "Tidak dapat menemui rekod pembelian.";
+"Fail to restore" = "Gagal untuk menyimpan semula";
+"You already purchased this item." = "Anda telah pun membeli item ini.";
+
+"ftpMsg1" = "1. Buka Windows explorer dari PC yang disambungkan ke rangkaian tanpa wayar yang sama dengan sambungan iPhone anda.";
+"ftpMsg2" = "2. Masukkan alamat FTP di bawah di dalam bar alamat explorer Windows.";
+"ftpMsg3" = "3. Salin fail atau direktori yang anda mahu muat naik ke Windows Explorer.";
+"ftpMsg4" = "Nota 1: Penggunaan program FTP yang biasa juga boleh didapati.";
+"ftpMsg5" = "Nota 2: kelajuan pemindahan FTP adalah perlahan. Apabila anda memindahkan fail yang bersaiz besar, penggunaan Perkongsian iTunes adalah disyorkan.";
+"itunesMsg1" = "1. Sambungkan iPhone anda ke komputer anda dan buka iTunes.";
+"itunesMsg2" = "2. Selepas memilih iPhone Saya dalam kategori Peranti, pilih tab APP.";
+"itunesMsg3" = "3. Pilih HighStereo dari kemasukan permohonan di tetingkap yang betul, di bawah Perkongsian Fail";
+"itunesMsg4" = "4. Tambah fail atau direktori yang anda mahu muat naik ke tetingkap dokumen HighStereo.";
+
+"leaveAReview" = "Sila komen tentang app.\n\nReviews are a great help for the App's improvement.\nTerima kasih.";
+"leaveAReview1" = "Sila komen tentang app.";
+"leaveAReview2" = "Reviews are a great help for the App's improvement.\nTerima kasih.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 min perjalanan ke tempat kerja\n30 min perjalanan ke sekolah\n\nAkan datang anda akan mula mendengar Bahasa Inggeris!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Perkataan yang tidak diketahui?\nHanya perlu sentuh!\n\nBuild word power\nwhile you're reading!";

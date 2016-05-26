@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "AJUSTES DE USUARIO";
+"Save Current Settings" = "Guardar ajustes actuales";
+"Delete" = "Borrar";
+"Setting Name" = "Ajuste de nombre";
+"Cancel" = "Cancelar";
+"Save" = "Guardar";
+"Move" = "Mover";
+"Edit" = "Editar";
+"YES" = "SÍ";
+"NO" = "NO";
+"Playlist" = "Lista de reproducción";
+"Complete" = "Completar";
+"Confirm" = "Confirmar";
+"New Setting Name" = "Nuevo Nombre del ajuste";
+"The setting will be deleted" = "Se eliminará la configuración";
+"Channel" = "Canal";
+"Add Channel" = "Agregar canal";
+"Edit Channel" = "Editar canal";
+"Enter URL" = "Introducir URL";
+"Search" = "Buscar";
+"No Search Results." = "Búsqueda sin resultados.";
+"Name" = "Nombre";
+"Select Encoding" = "Seleccionar codificación";
+"Please enter URL" = "Por favor, introduzca el URL";
+"Please enter server name." = "Por favor, introduzca el nombre del servidor.";
+"Add PlayList" = "Lista de reproducción";
+"File Browsing" = "Navegación de archivos";
+"The ftp server is started." = "Se inicia el servidor ftp.";
+"The ftp server is shut down." = "Se apaga el servidor FTP";
+"ftp server is re-started." = "Se reinicia el servidor ftp.";
+"New Folder" = "Nueva carpeta";
+"New file name" = "Nuevo nombre de archivo";
+
+"selectFilsMsg" = "Seleccionar primero los archivos";
+"Delete Files" = "Borrar archivos";
+"FileDelMsg" = "Se eliminarán los archivos seleccionados.";
+
+"File upload" = "Subir archivo";
+"FTP transfer" = "Transferencia FTP";
+"iTunes Sharing" = "iTunes Sharing";
+"Quick Move" = "Movimiento rápido";
+
+"New Name" = "Nuevo nombre";
+"Encoding" = "Codificación";
+"New PlayList" = "Nueva lista de reproducción";
+"File" = "Archivo";
+"Select Files" = "Seleccionar archivos";
+"Added to the playlist" = "Añadido a la lista de reproducción";
+"PlayList will be created." = "Se creará una lista de reproducción.";
+"Use currently playing file only." = "Utilizar archivo en reproducción solamente.";
+"Use currently playing list only." = "Usar lista de reproducción actual solamente.";
+"Use all files in the directory." = "Utilizar todos los archivos en el directorio.";
+"Use all files in the m3u playlist." = "Utilizar todos los archivos de la lista de reproducción M3U.";
+"Use all lists in the cue playlist." = "Utilizar todos los archivos de la lista de reproducción cue.";
+"Save As" = "Guardar como";
+"Please enter the playlist name." = "Por favor, introduzca el nombre de la lista.";
+"The playlist has been saved." = "La lista de reproducción se ha guardado.";
+"The playlist is empty." = "La lista está vacía.";
+"Setup" = "Configurar";
+"Minute" = "Minuto";
+"Set Time" = "Configurar tiempo";
+"Select Time" = "Seleccionar Hora";
+"Select Play" = "Seleccionar Reproducir";
+"Mix Volume" = "Mezcla de volumen";
+"Volume" = "Volumen";
+"Sound Mix" = "Sonido";
+"Nature Sounds" = "Sonidos de naturaleza";
+"Seagulls on the beach" = "Gaviotas en la playa";
+"The sound of the sea beach" = "El sonido de la playa del mar";
+"Crickets at night" = "Los grillos en la noche";
+"Fireplace" = "Chimenea";
+"Lake at night" = "Lago en la noche";
+"Morning in the forest" = "Mañana en el bosque";
+"The sound of the waves" = "El sonido de las olas";
+"Raindrops on the window" = "Gotas de agua en la ventana";
+"Rainy day" = "Día lluvioso";
+"Flowing river" = "Río que fluye";
+"Spring morning with woodpecker and other birds" = "Primavera de la mañana con pájaro carpintero y otras aves";
+"Summer field with birds singing" = "Campo de verano con canto de los pájaros";
+"Summer night with bugs singing" = "Noche de verano con insectos cantando";
+"Waves crashing on the sand" = "Olas rompiendo en la arena";
+"Windy autumn forest" = "Bosque de otoño ventoso";
+"Windy day" = "Dia ventoso";
+
+"Remove advertisement" = "Retire anuncio";
+"Prohibit auto screen lock" = "Prohibir el bloqueo automático de la pantalla";
+"Purchase now." = "Comprar ahora.";
+"Already purchased ?" = "¿Ya lo compró?";
+"Purchases are disabled in this device." = "Las compras están desactivadas en este dispositivo.";
+"You need internet connection." = "Es necesario tener conexión a Internet.";
+"Can not find purchase record." = "No se puede encontrar el registro de compra.";
+"Fail to restore" = "Error al restaurar";
+"You already purchased this item." = "Ya ha comprado este producto.";
+
+"ftpMsg1" = "1. Abra el Explorador de Windows desde el PC conectada a la misma red inalámbrica a la que su iPhone está conectado.";
+"ftpMsg2" = "2. Introduzca la dirección FTP en la barra de direcciones de Windows Explorer.";
+"ftpMsg3" = "3. Copiar los archivos o directorios que desee cargar en el Explorador de Windows.";
+"ftpMsg4" = "Nota 1: El uso de programas de FTP comunes también están disponibles.";
+"ftpMsg5" = "Nota 2: La velocidad de traslación de FTP es lenta. Al transferir archivos de gran tamaño, se recomienda el uso de iTunes Sharing";
+"itunesMsg1" = "1. Conecte tu iPhone al ordenador y abre iTunes.";
+"itunesMsg2" = "2. Después de seleccionar mi iPhone en la categoría de dispositivos, seleccione la ficha APP.";
+"itunesMsg3" = "3. Seleccionar HighStereo desde la entrada de la aplicación en la ventana de la derecha, bajo uso compartido de archivos";
+"itunesMsg4" = "4. Añada archivos o directorios que desee cargar en la ventana del documento de HighStereo.";
+
+"leaveAReview" = "Por favor comente acerca de la aplicación.\n\nLos comentarios son una gran ayuda para la mejora de la aplicación.\nGracias.";
+"leaveAReview1" = "Por favor comente acerca de la aplicación.";
+"leaveAReview2" = "Los comentarios son una gran ayuda para la mejora de la aplicación.\nGracias.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 min en camino a trabajar\n30 min en camino a la escuela\n\n¡Pronto empezará a escuchar Inglés!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "¿Palabra desconocida?\n¡Sólo toquela!\n\nBuild word power\nwhile you're reading!";

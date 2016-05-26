@@ -1,0 +1,128 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "การตั้งค่าผู้ใช้";
+"Save Current Settings" = "บันทึกการตั้งค่าปัจจุบัน";
+"Setting Name" = "ตั้งค่าชื่อ";
+"PlayList" = "เพลย์ลิสต์";
+"New Setting Name" = "ชื่อตั้งค่าใหม";
+"The setting will be deleted" = "การตั้งค่าจะถูกลบ";
+"Channel" = "ช่อง";
+"Add Channel" = "เพิ่มช่อง";
+"Edit Channel" = "แก้ไขช่อง";
+"Enter URL" = "ใส่ลิงค์ URL";
+"Search" = "ค้นหา";
+"No Search Results." = "ไม่มีผลการสืบค้น";
+"Name" = "ชื่อ";
+"Select Encoding" = "เลือกการเข้ารหัส";
+"Please enter URL" = "โปรดใส่ลิงค์ URL";
+"Please enter server name." = "โปรดใส่ชื่อเซิร์ฟเวอร์";
+"Add PlayList" = "เพลย์ลิสต์";
+"File Browsing" = "การดูไฟล์";
+
+"ftp server is re-started." = "เซิร์ฟเวอร์ ftp เริ่มใหม่";
+"New Folder" = "โฟลเดอร์ใหม่";
+"New file name" = "ชื่อไฟล์ใหม่";
+
+"File upload" = "อัปโหลดไฟล์";
+"iTunes Sharing" = "iTunes Sharing";
+"Quick Move" = "เลื่อนเร็ว";
+
+"New Name" = "ชื่อใหม่";
+"Encoding" = "เข้ารหัส";
+"New PlayList" = "เพลย์ลิสต์ใหม่";
+"File" = "ไฟล์";
+"Select Files" = "เลือกไฟล์";
+"Added to the playlist" = "เพิ่มในเพลย์ลิสต์แล้ว";
+"PlayList will be created." = "จะสร้างเพลย์ลิสต์";
+"Use currently playing file only." = "ใช้ไฟล์เล่นปัจจุบันเท่านั้น";
+"Use currently playing list only." = "ใช้รายการเล่นปัจจุบันเท่านั้น";
+"Use all files in the directory." = "ใช้รายการทั้งหมดในไดเรคทอรี่";
+"Use all files in the m3u playlist." = "ใช้รายการทั้งหมดในเพลย์ลิสต์ m3u";
+"Use all lists in the cue playlist." = "ใช้รายการทั้งหมดในเพลย์ลิสต์ cue";
+"Save As" = "บันทึกเป็น";
+"Please enter the playlist name." = "โปรดใส่ชื่อเพลย์ลิสต์";
+"The playlist has been saved." = "บันทึกเพลย์ลิสต์แล้ว";
+"The playlist is empty." = "เพลย์ลิสต์ว่าง";
+"Minute" = "นาที";
+"Set Time" = "ตั้งเวลา";
+"Select Time" = "เลือกเวลา";
+"Select Play" = "เลือกเล่น";
+"Mix Volume" = "ผสมความดัง";
+"Volume" = "ความดัง";
+"Sound Mix" = "มิกซ์เสียง";
+"Nature Sounds" = "เสียงธรรมชาติ";
+"Seagulls on the beach" = "นกนางนวลบนชายหาด";
+"The sound of the sea beach" = "เสียงชายหาด";
+"Crickets at night" = "คริกเก็ตยามค่ำคืน";
+"Fireplace" = "กองไฟ";
+"Lake at night" = "ทะเลสาบยามค่ำคืน";
+"Morning in the forest" = "เช้าในป่า";
+"The sound of the waves" = "เสียงคลื่น";
+"Raindrops on the window" = "ฝนตกริมหน้าต่าง";
+"Rainy day" = "วันฝนพรำ";
+"Flowing river" = "น้ำไหล";
+"Spring morning with woodpecker and other birds" = "เช้าแห่งฤดูใบไม้ผลิพร้อมเสียงนกรอ้ง";
+"Summer field with birds singing" = "ทุ่งหญ้าหน้าร้อนพร้อมเสียงนกร้อง";
+"Summer night with bugs singing" = "ค่ำคืนหน้าร้องพร้อมเสียงหิ่งห้อย";
+"Waves crashing on the sand" = "คลื่นกระทบฝั่ง";
+"Windy autumn forest" = "ป่าในฤดูใบไม้ร่วง";
+"Windy day" = "วันลมแรง";
+
+"Remove advertisement" = "นำโฆษณาออก";
+"Prohibit auto screen lock" = "ล็อคหน้าจออัตโนมัติไม่ได้";
+"Purchase now." = "ซื้อตอนนี้";
+"Already purchased ?" = "ซื้อแล้วใช่ไหม?";
+"Purchases are disabled in this device." = "การซื้อถูกปิดใช้งานในเครื่องนี้";
+"You need internet connection." = "คุณต้องเชื่อมต่ออินเตอร์เน็ต";
+"Can not find purchase record." = "ไม่พบข้อมูลการซื้อ";
+"Fail to restore" = "กู้คืนล้มเหลว";
+"You already purchased this item." = "คุณได้ซื้อสินค้านี้แล้ว";
+
+"ftpMsg5" = "หมายเหตุ 2 : การถ่ายโอนความเร็วของ FTP ช้า เมื่อคุณโอนไฟล์ขนาดใหญ่ขอแนะนำให้ใช้ iTunes Sharing";
+"ListeningDrillMsg" = "30 นาทีระหว่างทางไปทำงาน\n30 นาทีระหว่างทางไปโรงเรียน\n\nคุณจะได้ยินภาษาอังกฤษในเร็วๆนี้!";
+"WordsCatchMsg" = "คำไม่ระบุ?\nเพียงสัมผัส\n\nBuild word power\nwhile you're reading!";
+
+
+"leaveAReview" = "กรุณาแสดงความคิดเห็นเกี่ยวกับการตรวจสอบประสบการณ์\n\nความคิดเห็นเป็นตัวช่วยเหลือที่ดีมากสำหรับการปรับปรุงการตรวจสอบออก\nขอบคุณ";
+"leaveAReview1" = "กรุณาแสดงความคิดเห็นเกี่ยวกับการตรวจสอบประสบการณ์";
+"leaveAReview2" = "ความคิดเห็นเป็นตัวช่วยเหลือที่ดีมากสำหรับการปรับปรุงการตรวจสอบออก\nขอบคุณ";
+
+"FTP transfer" = "โอน FTP";
+
+"Confirm" = "ยืนยัน";
+
+"YES" = "ใช่";
+"NO" = "ไม่ใช่";
+
+"The ftp server is started." = "เซิร์ฟเวอร์ FTP เริ่มต้นแล้ว";
+"The ftp server is shut down." = "เซิร์ฟเวอร์ FTP ถูกปิดลง";
+
+"selectFilsMsg" = "เลือกไฟล์แรก";
+"Delete Files" = "ลบไฟล์";
+"FileDelMsg" = "ไฟล์ที่เลือกจะถูกลบออก";
+
+"Setup" = "ติดตั้ง";
+"Cancel" = "ยกเลิก";
+"Save" = "บันทึก";
+"Edit" = "แก้ไข";
+"Complete" = "เสร็จสมบูรณ์";
+"Delete" = "ลบ";
+"Move" = "ย้าย";
+
+"ftpMsg1" = "1. เปิดโปรแกรม Windows explorer จากเครื่องคอมพิวเตอร์ที่เชื่อมต่อกับเครือข่ายไร้สายเดียวกันที่ iPhone ของคุณเชื่อมต่อ";
+"ftpMsg2" = "2. ป้อนที่อยู่ FTP ด้านล่างในแถบที่อยู่ของ Windows explorer";
+"ftpMsg3" = "3. คัดลอกไฟล์หรือไดเรกทอรีที่คุณต้องการอัปโหลดไปยัง Windows Explorer";
+"ftpMsg4" = "หมายเหตุ 1 : โปรแกรม FTP ทั่วไปสามารถใช้ได้";
+"itunesMsg1" = "1. เชื่อมต่อ iPhone ของคุณไปยังเครื่องคอมพิวเตอร์และเปิด iTunes ของคุณ";
+"itunesMsg2" = "2. หลังจากที่เลือก iPhone ของฉันในหมวดหมู่อุปกรณ์ จากนั้นเลือกแท็บ APP";
+"itunesMsg3" = "3. เลือก HighStereo จากการเข้าโปรแกรมในหน้าต่างด้านขวา ภายใต้การแชร์ไฟล์";
+"itunesMsg4" = "4. เพิ่มไฟล์หรือไดเรกทอรีที่คุณต้องการอัปโหลดไปยังหน้าต่างเอกสารของ การจับคำ(HighStereo)";
+
+"ListeningDrill" = "ListeningDrill";
+"WordsCatch" = "WordsCatch";

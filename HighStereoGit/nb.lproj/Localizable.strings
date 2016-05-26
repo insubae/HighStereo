@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "BRUKERINNSTILLINGER";
+"Save Current Settings" = "Lagre gjeldende innstillinger";
+"Delete" = "Slett";
+"Setting Name" = "Innstillingsnavn";
+"Cancel" = "Avbryt";
+"Save" = "Lagre";
+"Move" = "Flytt";
+"Edit" = "Rediger";
+"YES" = "JA";
+"NO" = "NEI";
+"Playlist" = "Spilleliste";
+"Complete" = "Utført";
+"Confirm" = "Bekreft";
+"New Setting Name" = "Nytt innstillingsnavn";
+"The setting will be deleted" = "Innstillingen vil bli slettet";
+"Channel" = "Kanal";
+"Add Channel" = "Legg til kanal";
+"Edit Channel" = "Rediger kanal";
+"Enter URL" = "Skriv URL";
+"Search" = "Søk";
+"No Search Results." = "Ingen søkeresultater.";
+"Name" = "Navn";
+"Select Encoding" = "Velg enkoding";
+"Please enter URL" = "Skriv inn URL";
+"Please enter server name." = "Skriv inn servernavn.";
+"Add PlayList" = "Spilleliste";
+"File Browsing" = "Filgjennomsøking";
+"The ftp server is started." = "Ftp-serveren er startet.";
+"The ftp server is shut down." = "Ftp-serveren er stoppet.";
+"ftp server is re-started." = "Ftp-serveren er restartet.";
+"New Folder" = "Ny mappe";
+"New file name" = "Nytt filnavn";
+
+"selectFilsMsg" = "Velg filer først.";
+"Delete Files" = "Slett filer";
+"FileDelMsg" = "Valgte filer vil bli slettet.";
+
+"File upload" = "Filopplasting";
+"FTP transfer" = "Ftp-overføring";
+"iTunes Sharing" = "iTunes-deling";
+"Quick Move" = "Hurtigflytt";
+
+"New Name" = "Nytt navn";
+"Encoding" = "Enkoding";
+"New PlayList" = "Ny spilleliste";
+"File" = "Fil";
+"Select Files" = "Velg filer";
+"Added to the playlist" = "Lagt til i spilleliste";
+"PlayList will be created." = "Spilleliste blir opprettet.";
+"Use currently playing file only." = "Bruk kun filen som spiller nå.";
+"Use currently playing list only." = "Bruk kun gjeldende spilleliste.";
+"Use all files in the directory." = "Bruk alle filer i denne katalogen.";
+"Use all files in the m3u playlist." = "Bruk alle filene i m3u-spillelisten.";
+"Use all lists in the cue playlist." = "Bruk alle filene i cue-spillelisten.";
+"Save As" = "Lagre som";
+"Please enter the playlist name." = "Skriv inn spillelistens navn.";
+"The playlist has been saved." = "Spillelisten er lagret.";
+"The playlist is empty." = "Spillelisten er tom.";
+"Setup" = "Setup";
+"Minute" = "Minutt";
+"Set Time" = "Sett tid";
+"Select Time" = "Velg tid";
+"Select Play" = "Velg Spill av";
+"Mix Volume" = "Miks-volum";
+"Volume" = "Volum";
+"Sound Mix" = "Lydmiks";
+"Nature Sounds" = "Naturlige lyder";
+"Seagulls on the beach" = "Måker på stranden";
+"The sound of the sea beach" = "Lyden av sjø mot strand";
+"Crickets at night" = "Sirisser om natten";
+"Fireplace" = "Peis";
+"Lake at night" = "Innsjø om natten";
+"Morning in the forest" = "Morgen i skogen";
+"The sound of the waves" = "Lyden av bølgeslag";
+"Raindrops on the window" = "Regndråper på vinduet";
+"Rainy day" = "Regnfull dag";
+"Flowing river" = "Strømmende elv";
+"Spring morning with woodpecker and other birds" = "Vårmorgen med hakkespett og andre fugler";
+"Summer field with birds singing" = "Sommereng med fugler som synger";
+"Summer night with bugs singing" = "Sommernatt med summende insekter";
+"Waves crashing on the sand" = "Bølger som vasker over sanden";
+"Windy autumn forest" = "Vindfull høstskog";
+"Windy day" = "Vindfull dag";
+
+"Remove advertisement" = "Fjern annonse";
+"Prohibit auto screen lock" = "Slå av automatisk skjermlås";
+"Purchase now." = "Kjøp nå";
+"Already purchased ?" = "Allerede kjøpt?";
+"Purchases are disabled in this device." = "Kjøp er slått av på denne enheten";
+"You need internet connection." = "Du trenger internettforbindelse";
+"Can not find purchase record." = "Finner ikke kjøpsdata";
+"Fail to restore" = "Kunne ikke gjenopprette";
+"You already purchased this item." = "Du har allerede kjøpt denne artikkelen.";
+
+"ftpMsg1" = "1. Åpne Windows Utforsker på PCen som er koblet til samme trådløse nettverk som din iPhone.";
+"ftpMsg2" = "2. Skriv inn FTP-adressen nedenfor i adressefeltet i Windows Utforsker.";
+"ftpMsg3" = "3. Kopier filene eller katalogene du ønsker å laste opp til Windows Utforsker.";
+"ftpMsg4" = "Merk 1: Det er også mulig å benyttet vanlige FTP-programmer.";
+"ftpMsg5" = "Merk 2: FTPs overføringshastighet er lav. Det anbefales at du bruker iTunes Sharing ved overføring av store filer.";
+"itunesMsg1" = "1. Koble din iPhone til datamaskinen og åpne iTunes.";
+"itunesMsg2" = "2. Etter at du har valgt Min iPhone i kategorien Enheter, velger du APP-fanen.";
+"itunesMsg3" = "3. Velg HighStereo fra apllikasjonsoppføringen i høyre vindu under Fildeling.";
+"itunesMsg4" = "4. Legg til filer eller kataloger du ønsker å laste opp til HighStereos dokumentvindu.";
+
+"leaveAReview" = "Vennligst legg igjen en kommentar om app'en.\n\nVurderinger er til stor hjelp for forbedringer av app'en.\nTusen takk.";
+"leaveAReview1" = "Vennligst legg igjen en kommentar om app'en.";
+"leaveAReview2" = "Vurderinger er til stor hjelp for forbedringer av app'en.\nTusen takk.";
+
+"ListeningDrill" = "ListeningDrill";
+"ListeningDrillMsg" = "30 minutter på vei til jobb\n30 minutter på vei til skolen\n\nSnart vil du begynne å høre engelsk!";
+"WordsCatch" = "WordsCatch";
+"WordsCatchMsg" = "Ukjent ord?\nBare bank på det!\n\nBuild word power\nwhile you're reading!";

@@ -1,0 +1,127 @@
+/* 
+  Localizable.strings
+  HighStereo (English)
+
+  Created by Insu Bae on 2016. 1. 22.
+  Copyright (c) 2016년 Insu Bae. All rights reserved.
+*/
+
+"USER SETTINGS" = "ПОЛЬЗОВАТЕЛЬСКИЕ НАСТРОЙКИ";
+"Save Current Settings" = "Сохранить текущие настройки";
+"Setting Name" = "Имя настроек";
+"PlayList" = "Плейлист";
+"New Setting Name" = "Имя новой настройки";
+"The setting will be deleted" = "Настройка будет удалена";
+"Channel" = "Радиостанция";
+"Add Channel" = "Добавить радиостанцию";
+"Edit Channel" = "Редактировать радиостанцию";
+"Enter URL" = "Добавить URL";
+"Search" = "Поиск";
+"No Search Results." = "Ничего не найдено";
+"Name" = "Имя";
+"Select Encoding" = "Выбрать кодировку";
+"Please enter URL" = "Пожалуйста, введите URL";
+"Please enter server name." = "Пожалуйста, введите имя сервера";
+"Add PlayList" = "Плейлист";
+"File Browsing" = "Просмотр файла ";
+
+"ftp server is re-started." = "Сервер ftp перезагружен.";
+"New Folder" = "Новая папка";
+"New file name" = "Имя нового файла";
+
+"File upload" = "Файл загружается";
+"iTunes Sharing" = "Поделиться на iTunes";
+"Quick Move" = "Быстрое перемещение";
+
+"New Name" = "Новое имя";
+"Encoding" = "Кодирование";
+"New PlayList" = "Новый плейлист";
+"File" = "Файл";
+"Select Files" = "Выбрать файл";
+"Added to the playlist" = "Добавлено в плейлист";
+"PlayList will be created." = "Плейлист будет создат";
+"Use currently playing file only." = "Использовать только воспроизводимый сейчас файл. ";
+"Use currently playing list only." = "Использовать только воспроизводимый сейчас плейлист.";
+"Use all files in the directory." = "Использовать все файлы в папке.";
+"Use all files in the m3u playlist." = "Использовать все файлы в плейлисте m3u.";
+"Use all lists in the cue playlist." = "Использовать все списки в плейлисте cue.";
+"Save As" = "Сохранить как";
+"Please enter the playlist name." = "Пожалуйста, введите имя плейлиста";
+"The playlist has been saved." = "Плейлист сохранен";
+"The playlist is empty." = "Плейлист пуст";
+"Minute" = "Минута";
+"Set Time" = "Установить время";
+"Select Time" = "Выбрать время";
+"Select Play" = "Выбрать воспроизведение";
+"Mix Volume" = "Установить громкость";
+"Volume" = "Громкость";
+"Sound Mix" = "Саунд микс";
+"Nature Sounds" = "Звуки природы";
+"Seagulls on the beach" = "Чайки над побережьем";
+"The sound of the sea beach" = "Звуки морского побережья";
+"Crickets at night" = "Сверчки в ночи";
+"Fireplace" = "Камин";
+"Lake at night" = "Поздно ночью";
+"Morning in the forest" = "Утро в лесу";
+"The sound of the waves" = "Звуки волн";
+"Raindrops on the window" = "Капли дождя на окне";
+"Rainy day" = "Дождливый день";
+"Flowing river" = "Бурная река";
+"Spring morning with woodpecker and other birds" = "Весеннее утро с дятлом и другими птицами";
+"Summer field with birds singing" = "Летнее поле с пением птиц";
+"Summer night with bugs singing" = "Летняя ночь с пением сверчков";
+"Waves crashing on the sand" = "Волны разбиваются о берег";
+"Windy autumn forest" = "Лес ветреным осенним днём";
+"Windy day" = "Ветреный день";
+
+"Remove advertisement" = "Удалить рекламу";
+"Prohibit auto screen lock" = "Запретить автоматическую блокировку экрана";
+"Purchase now." = "Купить сейчас";
+"Already purchased ?" = "Уже купили?";
+"Purchases are disabled in this device." = "Покупки заблокированы на этом устройстве.";
+"You need internet connection." = "Необходимо подключение к интернету.";
+"Can not find purchase record." = "Не могу найти запись о покупке.";
+"Fail to restore" = "Не удалось восстановить.";
+"You already purchased this item." = "Вы уже покупали этот товар";
+
+"ftpMsg5" = "Примечание 2 : Скорость передачи FTP слишком мала. При передаче большого файла рекомендуется воспользоваться iTunes.";
+"ListeningDrillMsg" = "30 минут пути до работы.\n30 минут пути до школы.\n\nСкоро вы будете слушать английский!";
+"WordsCatchMsg" = "Неизвестное слово?\nПросто коснитесь его!\n\nBuild word power\nwhile you're reading!";
+
+"leaveAReview" = "Пожалуйста оставьте комментарий об использовании приложения.\n\nВаши отзывы помогут нам улучшить приложение.\nСпасибо.";
+"leaveAReview1" = "Пожалуйста оставьте комментарий об использовании приложения.";
+"leaveAReview2" = "Ваши отзывы помогут нам улучшить приложение.\nСпасибо.";
+
+"FTP transfer" = "Передача через FTP";
+
+"Confirm" = "Подтвердить";
+
+"YES" = "ДА";
+"NO" = "НЕТ";
+
+"The ftp server is started." = "FTP сервер запущен.";
+"The ftp server is shut down." = "FTP сервер выключен.";
+
+"selectFilsMsg" = "Для начала выберите файлы.";
+"Delete Files" = "Удалить файлы";
+"FileDelMsg" = "Выбранные файлы будут удалены";
+
+"Setup" = "Настройка";
+"Cancel" = "Отменить";
+"Save" = "Сохранить";
+"Edit" = "Редактировать";
+"Complete" = "Завершено";
+"Delete" = "Удалить";
+"Move" = "Переместить";
+
+"ftpMsg1" = "1. Откройте Windows проводник на компьютере, который подключен к той же беспроводной сети, что и iPhone";
+"ftpMsg2" = "2. Введите FTP адрес в адресной строке в Windows проводнике.";
+"ftpMsg3" = "3. Скопируйте файлы или папки, которые вы хотите загрузить в Windows проводник.";
+"ftpMsg4" = "Примечание 1 : также доступно использование обычных FTP программ.";
+"itunesMsg1" = "1. Подключите iPhone к компьютеру";
+"itunesMsg2" = "2. После того как вы";
+"itunesMsg3" = "3. Выберите HighStereo из формы регистрации в правом окне, под файлообменником.";
+"itunesMsg4" = "4. Добавьте файлы или папки, которые вы хотите загрузить в окно документа HighStereo.";
+
+"ListeningDrill" = "ListeningDrill";
+"WordsCatch" = "WordsCatch";
